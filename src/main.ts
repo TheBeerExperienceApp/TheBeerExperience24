@@ -10,13 +10,14 @@ import * as directives from 'vuetify/directives';
 import { mdi } from 'vuetify/iconsets/mdi';
 import { aliases, fa } from 'vuetify/iconsets/fa';
 import { beerLightTheme } from './plugins/vuetify';
+import '@mdi/font/css/materialdesignicons.css';
 
 const vuetify = createVuetify({ 
     components,
     directives,
     icons: {
         aliases,
-        defaultSet: "fa",
+        defaultSet: "mdi",
         sets: { fa, mdi }
     },
     theme: {
