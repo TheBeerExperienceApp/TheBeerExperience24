@@ -1,19 +1,41 @@
-<script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
-</script>
 
 <template>
-  <div>
-    <a href="https://vitejs.dev" target="_blank">
-      <img src="/vite.svg" class="logo" alt="Vite logo" />
-    </a>
-    <a href="https://vuejs.org/" target="_blank">
-      <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
-    </a>
-  </div>
-  <HelloWorld msg="Vite + Vue" />
+  <v-app>
+    <v-layout>
+      <v-app-bar color="surface-variant" title="Application bar"></v-app-bar>
+
+      <v-main>
+        <router-view />
+      </v-main>
+      <v-bottom-navigation v-model="value" color="teal" grow>
+        <v-btn>
+          <v-icon>mdi-history</v-icon>
+
+          Recents
+        </v-btn>
+
+        <v-btn>
+          <v-icon>mdi-heart</v-icon>
+
+          Favorites
+        </v-btn>
+
+        <v-btn>
+          <v-icon>mdi-map-marker</v-icon>
+
+          Nearby
+        </v-btn>
+      </v-bottom-navigation>
+    </v-layout>
+  </v-app>
 </template>
 
+<script setup lang="ts">
+import { ref } from 'vue';
+
+const value = ref(0);
+</script>
+  
 <style scoped>
 .logo {
   height: 6em;
@@ -21,9 +43,11 @@ import HelloWorld from './components/HelloWorld.vue'
   will-change: filter;
   transition: filter 300ms;
 }
+
 .logo:hover {
   filter: drop-shadow(0 0 2em #646cffaa);
 }
+
 .logo.vue:hover {
   filter: drop-shadow(0 0 2em #42b883aa);
 }
