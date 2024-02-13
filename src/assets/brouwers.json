@@ -1,0 +1,149 @@
+      [
+        {
+          "naam": "Oso",
+          "stand": "18",
+          "locatie": "balzaal",
+          "info": "Een brouwerij in Madrid die verse en moderne ambachtelijke bieren brouwt. De oprichters David en Patrick ontmoetten elkaar meer dan tien jaar geleden tijdens hun studie in Madrid. Ze serveerden hun eerste bier in 2018 en sindsdien hebben ze meer dan 100.000 pinten bier gebrouwen en verkocht aan mensen in heel Europa.",
+          "link": "",
+          "foto": "assets/images/brouwers/Oso.jpg",
+          "liked": false
+        },
+        {
+          "naam": "Hophemel",
+          "stand": "19",
+          "locatie": "balzaal",
+          "info": "De Hophemel is een Limburgse craft-brouwerij die sinds eind 2020 de bierwereld bestormt door elke maand een compleet nieuw bier op de markt te brengen. Wat ooit begon als een kleine, snel evoluerende huisbrouwerij die de lat hoog legt en het experiment niet schuwt, is inmiddels uitgegroeid tot een huurbrouwerij met een jaarlijks volume rond de 80 hectoliter en een leuke taproom in de stationsbuurt van Hasselt. Het bezoeken waard, maar nu eerst hun stand opzoeken! ",
+          "link": "",
+          "foto": "assets/images/brouwers/Hophemel.png",
+          "liked": false
+        },
+        {
+          "naam": "Slaapmutske",
+          "stand": "20",
+          "locatie": "balzaal",
+          "info": "Het walhalla voor wie glutenvrij moet eten en drinken! Slaapmutske staat bekend om zijn groot gamma biologische en glutenvrije bieren, met dank aan brouwer Dany De Smet. De brouwerij-ingenieur die al in 1992 samen met zijn echtgenote bier begon te brouwen.",
+          "link": "",
+          "foto": "assets/images/brouwers/Slaapmutske.jpg",
+          "liked": false
+        },
+        {
+          "naam": "Stroom",
+          "stand": "21",
+          "locatie": "balzaal",
+          "info": "Stroom heeft de voorbije weken alle Belgische pers gehaald met de EXPO “Blik op kunst” die in het Muzecafé te zien is tijdens het festival. Daar hangen de échte kunstwerken in real life die ook op de blikken bier van Stroom schitteren. De moeite om daar langs te gaan om de hele “Experience” van ons bierfestival te ervaren. Maar vergeet ook niet langs hun stand te passeren: dit Belgisch-Amerikaans duo maakt fijne bieren en hebben een nieuwe onafhankelijke brouwerij met taproom in Gent. Leuke mannen om een klapke mee te doen.",
+          "Blik op kunst": " die in het Muzecafé te zien is tijdens het festival. Daar hangen de échte kunstwerken in real life die ook op de blikken bier van Stroom schitteren. De moeite om daar langs te gaan om de hele ",
+          "Experience": " van ons bierfestival te ervaren. Maar vergeet ook niet langs hun stand te passeren: dit Belgisch-Amerikaans duo maakt fijne bieren en hebben een nieuwe onafhankelijke brouwerij met taproom in Gent. Leuke mannen om een klapke mee te doen.",
+          "link": "",
+          "foto": "assets/images/brouwers/Stroom.jpg",
+          "liked": false
+        },
+        {
+          "naam": "De La Senne",
+          "stand": "22",
+          "locatie": "Balzaal",
+          "info": "Brasserie De La Senne stond mee aan de wieg van de \"nieuwe golf\" van craft bier in Brussel (en België). Zij produceren bittere bieren vanaf hun prilste bestaan – en ze bestaan om bittere bieren te produceren! Ze behoren tot het selecte kliekje van brouwerijen die vorig jaar ook op ons festival stonden. Omdat we fan zijn!",
+          "nieuwe golf": " van craft bier in Brussel (en België). Zij produceren bittere bieren vanaf hun prilste bestaan – en ze bestaan om bittere bieren te produceren! Ze behoren tot het selecte kliekje van brouwerijen die vorig jaar ook op ons festival stonden. Omdat we fan zijn!",
+          "link": "",
+          "foto": "assets/images/brouwers/De La Senne.jpg",
+          "liked": false
+        },
+        {
+          "naam": "Artevelde / Haeseveld",
+          "stand": "23",
+          "locatie": "balzaal",
+          "info": "In het hartje van Gent, recht tegenover het stadhuis, opende brouwerij Huyghe (bekend van oa. Delirium, Averbode en Mongozo) de Gentse stadsbrouwerij Artevelde. En hop! De arteveldestad is een brouwerij rijker. Waarom Artevelde? Wel: Jacob van Artevelde (1290-1345) was lakenkoopman, volksleider, staatsman en dronk graag een biertje uit een pul. Vrie wijs.",
+          "link": "",
+          "foto": "assets/images/brouwers/Artevelde.jpg",
+          "liked": false
+        },
+        {
+          "naam": "St. Bernardus",
+          "stand": "24",
+          "locatie": "balzaal",
+          "info": "1 van de grootste en bekendste namen op The Beer Experience komt uit het uiterste puntje van West-Vlaanderen. Te midden van \"Le Plat Pays\", in het hart van de West-Vlaamse hoppestreek brouwt Sint-Bernardus bier dat tot de verbeelding spreekt. Vooral hun Abt is een ware klassieker in de Belgische bierwereld. Nog nooit gedronken? Zeker doen.",
+          "link": "",
+          "foto": "assets/images/brouwers/St Bernardus.jpg",
+          "liked": false
+        },
+        {
+          "naam": "Gistgeest",
+          "stand": "25",
+          "locatie": "balzaal",
+          "info": "Een wijkbrouwerij zoals elke wijk er vroeger eentje had: dat is Gistgeest. Naast het Boelaerpark, in de kelder, brouwt brouwer Steven op 120 liter bieren en stijlen waar hij zelf fan van is. Kleinschalig en zonder poespas: hij doet het allemaal in zijn eentje: recepten verzinnen en brouwen en bottelen. Misschien heeft hij jouw gezelschap nu nodig?",
+          "link": "",
+          "foto": "assets/images/brouwers/Gistgeest.jpg",
+          "liked": false
+        },
+        {
+          "naam": "Lupulus",
+          "stand": "26",
+          "locatie": "balzaal",
+          "info": "Brouwerij Lupulus uit Gouvy, Henegouwen, is ook 1 van de meest gevestigde namen op ons festival. Het is een echte familiebrouwerij waar de vader en zijn 2 zonen aan het hoofd staan. De Latijnse naam voor hop is Humulus Lupulus, wat letterlijk “kleine nederige wolf” betekent.  Vandaar de naam, Lupulus, en het logo met de kleine wolf.",
+          "link": "",
+          "foto": "assets/images/brouwers/Lupulus.jpg",
+          "liked": false
+        },
+        {
+          "naam": "Arpus",
+          "stand": "27",
+          "locatie": "zwarte zaal",
+          "info": "Ārpus Brewing is een onafhankelijke microbrouwerij, opgericht in 2017 door ambachtelijke bierliefhebbers uit Letland. Ze brouwen waar ze van houden: sappige hop-forward ales, fruitig zuur bier en gewaagde imperial stouts. Ze zijn erg trots dat Ārpus Brewing op Untappd is verkozen tot #1 brouwerij in de Baltische staten.",
+          "link": "",
+          "foto": "assets/images/brouwers/Arpus.jpg",
+          "liked": false
+        },
+        {
+          "naam": "Folkingebrew",
+          "stand": "28",
+          "locatie": "zwarte zaal",
+          "info": "Folkingebrew zijn biernerds die brouwers zijn geworden, uit liefde voor bier. Ze drinken graag groot, gedurfd bier met diepgaande aroma's en smaken en dat is natuurlijk wat ze dan zelf brouwen ook. Folkinge verwijst naar de plek waar ze zijn begonnen met brouwen: in de Folkingestraat in Groningen. Brouwersmotto is: nooit stoppen met dromen en leren. Wij dromen alvast dat er snel een proefglaasje bier van Folkingebrew in onze handen terecht komt. Cheers.",
+          "link": "",
+          "foto": "assets/images/brouwers/Folkingebrew.jpg",
+          "liked": false
+        },
+        {
+          "naam": "Drap (Zondag)",
+          "stand": "29",
+          "locatie": "zwarte zaal",
+          "info": "\nDe West-Vlaamse Emelie Maeyens is al enkele jaren actief in de bierwereld en werkt(e) in verschillende brouwerijen, waaronder Brouwerij 3 Fonteinen. Ze beweegt zich als een wervelwind door de wereld van bier, fruitwijn, co-fermenatatie-experimenten en nu ook wijn. Zin in een kort intermezzo? Begeef je dan naar de zwarte zaal. Enkel op zondag.",
+          "link": "",
+          "foto": "assets/images/brouwers/Drap.jpg",
+          "liked": false
+        },
+        {
+          "naam": "Bofkont",
+          "stand": "30",
+          "locatie": "zwarte zaal",
+          "info": "Een warme zomeravond aan zee en een oude kriek van Hanssens artisanaal uit de jaren 2000”. Sam Hellemans zijn eerste ervaring met lambiek én meteen de start van een lange ontdekkingstocht in de wereld van de lambiek. Nu verovert hij op zijn beurt de wereld. Letterlijk want op buitenlandse festivals staan er rijen wachtenden voor u om zijn creaties te proeven. Maar eerst Limburg én dan de rest van wereld! We maakten hem curator van de zwarte zaal aan het Muzecafé.",
+          "link": "",
+          "foto": "assets/images/brouwers/Bofkont.jpg",
+          "liked": false
+        },
+        {
+          "naam": "Vermeersch (Zaterdag)",
+          "stand": "31",
+          "locatie": "zwarte zaal",
+          "info": "Nog iemand die meegebracht is door onze curator Sam Hellemans van Bofkont. Vermeersch is een spontaan bierproject waarbij er geëxperimenteerd wordt met lambiek van verschillende brouwerijen om eigen prachtige creaties te maken. Topmateriaal voor beergeeks. Enkel op zaterdag.",
+          "link": "",
+          "foto": "assets/images/brouwers/Vermeersch.jpg",
+          "liked": false
+        },
+        {
+          "naam": "Pellicle (Zondag)",
+          "stand": "31",
+          "locatie": "zwarte zaal",
+          "info": "Matthieu Dupont heeft van biersteken als hobby, een tweede job gemaakt. Begonnen als barman kwam hij vaak in contact met bier en na experimenten met wijn en cider begon hij met het mengen van zure bieren met andere zure bieren of fruit. Sam van Bofkont is onze curator van de zwarte zaal naast het Muzecafé en bracht Matthieu met veel enthousiasme mee. Unieke zaal voor mensen die eens wat anders willen dan de gewone bieren. Zeker uitchecken, enkel op zondag.",
+          "link": "",
+          "foto": "assets/images/brouwers/Pellicle.jpg",
+          "liked": false
+        },
+        {
+          "naam": "Uncharted",
+          "stand": "32",
+          "locatie": "zwarte zaal",
+          "info": "Uncharted betekent het delen van de opwinding van het onbekende, onafhankelijkheid, vrijheid, barrières negeren, de minder bewandelde weg kiezen, buiten de gebaande paden leven,... Moeten we nog doorgaan? De naam zegt het allemaal. Deze craft brewery midden in Antwerpen is een samenwerking tussen Station 1280 & BRWBRD.",
+          "link": "",
+          "foto": "assets/images/brouwers/Uncharted.jpg",
+          "liked": false
+        }
+      ]

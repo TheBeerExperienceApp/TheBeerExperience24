@@ -26,9 +26,8 @@
           Home
         </v-btn>
 
-        <v-btn>
+        <v-btn @click="router.push({ name: 'beers' })">
           <v-icon>mdi-glass-mug-variant</v-icon>
-
           Beers
         </v-btn>
 
@@ -50,6 +49,7 @@
 
 <script setup lang="ts">
 import { ref } from 'vue';
+import router from './router';
 
 const value = ref(0);
 </script>
