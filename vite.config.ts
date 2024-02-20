@@ -5,4 +5,5 @@ import vue from '@vitejs/plugin-vue'
 export default defineConfig({
   base: "/TheBeerExperience24/",
   plugins: [vue()],
+  assetsInclude: ["**/*.jpg", "**/*.JPG"],
 })

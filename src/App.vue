@@ -19,39 +19,56 @@
       <v-main class="px-3">
         <router-view />
       </v-main>
+
       <v-bottom-navigation v-model="value" color="primary" grow class="bottom-navbar-tbe">
-        <v-btn>
+        <v-btn value="home" to="/TheBeerExperience24/" exact>
           <v-icon>mdi-home</v-icon>
 
           Home
         </v-btn>
 
-        <v-btn @click="router.push({ name: 'beers' })">
+        <v-btn value="beers" to="/TheBeerExperience24/beers" exact>
           <v-icon>mdi-glass-mug-variant</v-icon>
+
           Beers
         </v-btn>
 
-        <v-btn>
+        <v-btn value="map" to="/TheBeerExperience24/map" exact>
           <v-icon>mdi-map-marker</v-icon>
 
           Map
         </v-btn>
 
-        <v-btn>
+        <v-btn :class="{ 'active-button': $route.name === 'partners' || $route.name === 'food' }"
+          @click.stop="drawer = !drawer">
           <v-icon>mdi-dots-horizontal</v-icon>
 
           Other
         </v-btn>
       </v-bottom-navigation>
+
+      <v-navigation-drawer v-model="drawer" location="right" temporary>
+        <v-list>
+          <v-list-item v-for="item in items" :key="item.title" :title="item.title" @click="() => {
+            drawer = false;
+            router.push(item.to)
+          }" :active="$route.path === item.to" />
+        </v-list>
+      </v-navigation-drawer>
     </v-layout>
   </v-app>
 </template>
 
 <script setup lang="ts">
 import { ref } from 'vue';
-import router from './router';
+import router from './router'
 
 const value = ref(0);
+const drawer = ref(false);
+const items = [
+  { title: 'Partners', icon: 'mdi-account-group', to: '/TheBeerExperience24/partners' },
+  { title: 'Food', icon: 'mdi-food', to: '/TheBeerExperience24/food' },
+];
 </script>
   
 <style scoped>
@@ -74,5 +91,9 @@ const value = ref(0);
 
 .bottom-navbar-tbe {
   position: fixed !important;
+}
+
+.active-button {
+  color: #ffcf26 !important;
 }
 </style>
