@@ -4,8 +4,8 @@
         <v-row>
             <v-col cols="12" sm="4" md="4" v-for="brewer in brewers" :key="brewer.naam">
                 <v-card @click="handleBrewerClick(brewer)">
-                    <v-img class="brewer-image align-end" gradient="to bottom, rgba(0,0,0,.1), rgba(0,0,0,.5)"
-                        height="200px" cover :src="`/TheBeerExperience24/src/${brewer.foto}`" alt="Brewer Image">
+                    <v-img class="brewer-image align-end" gradient="to bottom, rgba(255,212,60,.2), rgba(60,60,60,.5)"
+                        height="200px" fit :src="`${brewer.foto}`" alt="Brewer Image">
                         <v-card-title class="text-white" v-text="brewer.naam" />
                     </v-img>
 
