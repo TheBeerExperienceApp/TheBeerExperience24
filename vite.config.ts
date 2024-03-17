@@ -1,17 +1,12 @@
-import { defineConfig } from 'vite'
-import vue from '@vitejs/plugin-vue'
-import { loadEnv } from 'vite'
+import { defineConfig } from "vite";
+import vue from "@vitejs/plugin-vue";
 
 // https://vitejs.dev/config/
-export default ({ mode }) => {
-  const env = loadEnv(mode, process.cwd())
-
-  return defineConfig({
-    base: "/TheBeerExperience24/",
-    plugins: [vue()],
-    assetsInclude: ["**/*.jpg", "**/*.JPG"],
-    define: {
-      "process.env": env,
-    },
-  })
-}
+export default defineConfig({
+  base: "/TheBeerExperience24/",
+  plugins: [vue()],
+  assetsInclude: ["**/*.jpg", "**/*.JPG"],
+  optimizeDeps: {
+    include: ["vuetify"],
+  },
+});
