@@ -1,14 +1,21 @@
-
 <template>
   <v-app>
     <v-layout>
-      <v-app-bar color="primary"
-        image="https://thebeerexperience.be/____impro/1/onewebmedia/Foto%27s%202023/Tom%20Frederix/_M4_3294.jpg?etag=%2293f437-64f7958c%22&sourceContentType=image%2Fjpeg&withoutEnlargement&resize=2500&quality=85">
+      <v-app-bar
+        color="primary"
+        image="https://thebeerexperience.be/____impro/1/onewebmedia/Foto%27s%202023/Tom%20Frederix/_M4_3294.jpg?etag=%2293f437-64f7958c%22&sourceContentType=image%2Fjpeg&withoutEnlargement&resize=2500&quality=85"
+      >
         <template v-slot:image>
-          <v-img gradient="to top right, rgba(255,207,38,.8), rgba(255,207,38,.8)"></v-img>
+          <v-img
+            gradient="to top right, rgba(255,207,38,.8), rgba(255,207,38,.8)"
+          ></v-img>
         </template>
         <template v-slot:prepend>
-          <img class="logo" src="./assets/images/tbe-logo.png" alt="The Beer Experience Logo" />
+          <img
+            class="logo"
+            src="./assets/images/tbe-logo.png"
+            alt="The Beer Experience Logo"
+          />
         </template>
         <!-- <v-app-bar-title>The Beer Experience 2024</v-app-bar-title> -->
         <v-btn icon to="/TheBeerExperience24/liked" exact>
@@ -20,7 +27,12 @@
         <router-view />
       </v-main>
 
-      <v-bottom-navigation v-model="value" color="primary" grow class="bottom-navbar-tbe">
+      <v-bottom-navigation
+        v-model="value"
+        color="primary"
+        grow
+        class="bottom-navbar-tbe"
+      >
         <v-btn value="home" to="/TheBeerExperience24/" exact>
           <v-icon>mdi-home</v-icon>
 
@@ -39,8 +51,13 @@
           Map
         </v-btn>
 
-        <v-btn :class="{ 'active-button': $route.name === 'partners' || $route.name === 'food' }"
-          @click.stop="drawer = !drawer">
+        <v-btn
+          :class="{
+            'active-button':
+              $route.name === 'partners' || $route.name === 'food',
+          }"
+          @click.stop="drawer = !drawer"
+        >
           <v-icon>mdi-dots-horizontal</v-icon>
 
           Other
@@ -49,10 +66,18 @@
 
       <v-navigation-drawer v-model="drawer" location="right" temporary>
         <v-list>
-          <v-list-item v-for="item in items" :key="item.title" :title="item.title" @click="() => {
-            drawer = false;
-            router.push(item.to)
-          }" :active="$route.path === item.to" />
+          <v-list-item
+            v-for="item in items"
+            :key="item.title"
+            :title="item.title"
+            @click="
+              () => {
+                drawer = false;
+                router.push(item.to);
+              }
+            "
+            :active="$route.path === item.to"
+          />
         </v-list>
       </v-navigation-drawer>
     </v-layout>
@@ -60,17 +85,23 @@
 </template>
 
 <script setup lang="ts">
-import { ref } from 'vue';
-import router from './router'
+import { ref } from "vue";
+import router from "./router";
 
 const value = ref(0);
 const drawer = ref(false);
 const items = [
-  { title: 'Partners', icon: 'mdi-account-group', to: '/TheBeerExperience24/partners' },
-  { title: 'Food', icon: 'mdi-food', to: '/TheBeerExperience24/food' },
+  { title: "Food", icon: "mdi-food", to: "/TheBeerExperience24/food" },
+  { title: "Programma", icon: "mdi-food", to: "/TheBeerExperience24/program" },
+  { title: "Kunstwerken", icon: "mdi-food", to: "/TheBeerExperience24/art" },
+  {
+    title: "Partners",
+    icon: "mdi-account-group",
+    to: "/TheBeerExperience24/partners",
+  },
 ];
 </script>
-  
+
 <style scoped>
 .logo {
   height: 6em;

@@ -43,10 +43,10 @@
             icon="mdi-close"
             variant="text"
             @click="dialogVisible = false"
-            style="position: absolute; top: 0; right: 0"
+            style="position: absolute; top: 0; right: 0; z-index: 2;"
           ></v-btn>
           <v-img
-            height="200"
+            height="150"
             fit
             :src="`${selectedBrewer.foto}`"
             alt="Brewer Image"
