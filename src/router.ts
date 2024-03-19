@@ -3,6 +3,7 @@ import HomeView from "./views/HomeView.vue";
 import BeersView from "./views/BeersView.vue";
 import { useDevice } from "./composables/device";
 import MapView from "./views/MapView.vue";
+import LikedView from "./views/LikedView.vue";
 
 const routes = [
   { path: "/TheBeerExperience24/", name: "home", component: HomeView },
@@ -14,7 +15,7 @@ const routes = [
     name: "partners",
     component: BeersView,
   },
-  { path: "/TheBeerExperience24/liked", name: "liked", component: BeersView },
+  { path: "/TheBeerExperience24/liked", name: "liked", component: LikedView },
 ];
 
 const router = createRouter({

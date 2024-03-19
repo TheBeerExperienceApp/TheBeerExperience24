@@ -3,159 +3,175 @@
         {
           "naam": "Molder & Coop",
           "stand": "1",
-          "locatie": "",
+          "locatie": "Bovendek",
           "tijd": "",
-          "info": "abc",
+          "info": "Hier tref je een microbrouwerij uit het hart van Bosland, in Pelt. Er wordt met veel liefde en passie voor het vak op ambachtelijke wijze bier gebrouwen.Het is hun missie om in Bosland een actieve brouwerij op de kaart te zetten die garant staat voor lokale streekbieren. Ze hanteren een zo kort mogelijk ecologische keten als fundamenteel uitgangspunt, van korrel tot glas. Vanuit deze principes ontwikkelden ze een eigen hopveldje , zoeken ze permanent lokale ingrediënten en beperken ze bewust hun afzetgebied tot de regio Bosland en haar periferie, maar vandaag dus toch hier te proeven !",
           "link": "",
           "foto": "assets/images/brouwers/Molder.png",
-          "liked": false
+          "liked": false,
+          "land": "België"
+
         },
         {
           "naam": "De Meester",
           "stand": "2",
-          "locatie": "",
+          "locatie": "Bovendek",
           "tijd": "",
-          "info": "abc",
+          "info": "Dirk De Meester en Ann Verfaillie maken sinds 2016 uitstekende bieren met zorgvuldig geselecteerde \"natuurlijke\" ingrediënten. In 2022 verhuisden ze naar Lendelede waar de artisanale bieren gebrouwen worden op hernieuwbare energie. Je kan het gerust een vooruitstrevende microbrouwerij noemen. Hun eerlijke bieren, zonder toegevoegde kleurpigmenten, smaakstoffen en schuimverbeteraars van zowel de standaardreeksen als de Barrel Aged bieren zijn gewoon uitstekend en dus kon niets een tweede deelname in de weg staan. ",
           "link": "",
           "foto": "assets/images/brouwers/DeMeester.jpg",
-          "liked": false
+          "liked": false,
+          "land": "België"
         },
         {
-          "naam": "DOK Brewing Co",
+          "naam": "DOK Brewing Co (Zondag)",
           "stand": "3",
-          "locatie": "balzaal",
+          "locatie": "Bovendek",
           "tijd": "",
-          "info": "abc",
+          "info": "Dok Brewing Company is het geesteskind van drie bierliefhebbers uit Gent. Alle drie met hun eigen expertise in de wereld van het bier en met een gemeenschappelijke passie voor het product en hun stad. Wat begon als een wilde droom tussen pot en pils 13, werd al snel concreet. Een paar jaar na de eerste \"en als we nu eens…?\" werd hun brewpub een feit. In hun hal ook het geweldige RØK (grill) en samen doen ze een foodpairing, njam njam. Een topper in België met een enorm breed gamma van IPA’s, sours, hun geweldige pils, smoothies, ales, stouts, tripels, goses, enz.. van eigen makelij of uit collabs. Ze produceren dus niet de klassieke stijlen maar leren hun publiek telkens opnieuw andere stijlen en smaken kennen.",
           "link": "",
           "foto": "assets/images/brouwers/DOK.jpg",
-          "liked": false
+          "liked": false,
+          "land": "België"
         },
         {
-          "naam": "Boerenerf",
+          "naam": "Boerenerf (Zaterdag)",
           "stand": "3",
-          "locatie": "balzaal",
+          "locatie": "Bovendek",
           "tijd": "",
-          "info": "abc",
+          "info": "Het Boerenerf is een biologische boerderij en lambiekmengerij in Huizingen. die teruggaat tot de 19de eeuw. Het is de heropleving van de voormalige brouwerij Eylenbosch uit dezelfde straat, onder oprichter en blender Senne Eylenbosch nadat hij in 2019 het project op de boerderij van zijn grootouders was gestart. In dezelfde hoeve waar vroeger lambiek werd gebrouwen laat Senne Eylenbosch terug lambiek bier rijpen op eikenhouten vaten voor fruitlambiek bieren en natuurlijke geuze. De boerderij serveerde ook haar eigen ijs en verbouwt haar eigen fruit en granen. De bedoeling is om zo organisch mogelijk te werken bij het blenden en fermenteren van de lambieken, ciders en medes. Toppertje !",
           "link": "",
           "foto": "assets/images/brouwers/Boerenerf.png",
-          "liked": false
+          "liked": false,
+          "land": "België"
         },
         {
           "naam": "Fugu Brewing Co",
           "stand": "4",
-          "locatie": "",
+          "locatie": "Bovendek",
           "tijd": "",
-          "info": "abc",
+          "info": "Tijdens de lockdown, ontwikkelden Nico & Sam verschillende recepten om indruk te maken op vrienden. Ze brouwden in een kleine tank van 20 liter. In een wedstrijd van Brussels Beer Project om de Delta IPA na te brouwen wonnen ze brons wat hen vertrouwen gaf.  Ze zagen een reportage over fugu, een vreemde vis en populair gerecht in Japan waarvan de bereiding enorme aandacht en onberispelijke netheid vereist als je waarde hecht aan je leven en legden de link naar de kunst van het brouwen van een goede IPA. Het was de geboorte van Fugu Brewing Co. en hun eerste bier, Fugushima.",
           "link": "",
           "foto": "assets/images/brouwers/Fugu.png",
-          "liked": false
+          "liked": false,
+          "land": "België"
         },
         {
           "naam": "100 Watt & Van Moll",
           "stand": "5",
-          "locatie": "",
+          "locatie": "Bovendek",
           "tijd": "",
-          "info": "abc",
+          "info": "Van Moll en 100 Watt zijn twee brouwerijen maar met gezamenlijke brouwketels onder de naam Lighttown Brewers. Ze maakten ook al samen een collab, een hazy double IPA.  Op die manier bundelen ze de krachten om grotere volumes te kunnen produceren en Eindhoven op de kaart te zetten. Hun gamma's coveren zowat alle stijlen, dus je vindt er sowieso je zin !",
           "link": "",
           "foto": "assets/images/brouwers/100watt.png",
-          "liked": false
+          "liked": false,
+          "land": "Nederland"
         },
         {
-          "naam": "Intenables",
+          "naam": "Les Intenables",
           "stand": "6",
-          "locatie": "",
+          "locatie": "Bovendek",
           "tijd": "",
-          "info": "abc",
+          "info": "Les Intenables is een bende jonge en hippe brouwers uit Strasbourg die hier vorig jaar ook stonden en ons verrasten met topbieren waarin ze munt, sinaas, geschilde gember en fruit verwerkten: En dat ook nog eens op een ecologische wijze. Ze vonden het hier zo leuk dat ze per sé wilden terugkomen en wel met een speciaal voor ons gebrouwen festivalbier : Hop Miners. Checken die handel !",
           "link": "",
           "foto": "assets/images/brouwers/LesIntenables.png",
-          "liked": false
+          "liked": false,
+          "land": "Frankrijk"
         },
         {
           "naam": "Vicaris / Dilewyns",
           "stand": "7",
-          "locatie": "",
+          "locatie": "Bovendek",
           "tijd": "",
-          "info": "abc",
+          "info": "Brouwerij Dileweyns is een ondertussen vrij grote familiebrouwerij uit Dendermonde. Vader en dochter staan aan het roer van deze mooie brouwerij, vooral bekend van hun uitgebreide gamma Vicaris-bieren. Hun alcoholvrije Nano is één van hun laatste mooie creaties maar ze toch nog het meest gekend van de Triple Geuze. Weet jij wat er op het logo staat ?",
           "link": "",
           "foto": "assets/images/brouwers/vicaris.png",
-          "liked": false
+          "liked": false,
+          "land": "België"
         },
         {
           "naam": "Eylenbosch",
           "stand": "8",
-          "locatie": "",
+          "locatie": "Bovendek",
           "tijd": "",
-          "info": "abc",
+          "info": "Opgericht in 1886 door Emile Eylenbosch in Schepdaal, groeide  Eylenbosch uit tot één van de belangrijkste producenten van lambiek en gueuze, met een absoluut hoogtepunt op de wereld expo van 1958. Daarna verloren de lambiek bieren aan populariteit ten voordele van de industriële pils, en ook Eylenbosch sloot de deuren. Na 30 jaar komt Eylenbosch in 2019 terug tot leven. De nieuwe brouwerij draagt traditie en authenticiteit hoog in het vaandel, en buioten hun saison, pale ale en special blond staan hun oude geuze en kriek ook weer te blinken naar aloude traditionele methode en recepten.",
           "link": "",
           "foto": "assets/images/brouwers/Eylenbosch.jpg",
-          "liked": false
+          "liked": false,
+          "land": "België"
         },
         {
           "naam": "Angerik",
           "stand": "9",
-          "locatie": "",
+          "locatie": "Bovendek",
           "tijd": "",
-          "info": "abc",
+          "info": "Artisanaal bier gebrouwen in Dilbeek, in een eigengebouwde installatie zonder pompen. De brouwketels zijn trapsgewijs boven elkaar geplaatst, zodat de zwaartekracht zijn werk kan doen.  Bij Brouwerij Angerik worden enkel bieren van hoge gisting geproduceerd, gebaseerd op een authentieke werkwijze. Omdat hun bieren niet gepasteuriseerd worden, vindt er een natuurlijke smaakevolutie plaats in de fles. Dan krijg je dingen als greenhopping, haverstout, vlierbloesem witbier, kriekenbier of een oudbroodtripel.",
           "link": "",
           "foto": "assets/images/brouwers/Angerik.png",
-          "liked": false
+          "liked": false,
+          "land": "België"
         },
         {
           "naam": "Lervig",
           "stand": "10",
-          "locatie": "",
+          "locatie": "Compressorenhal",
           "tijd": "",
-          "info": "abc",
+          "info": "Lervig is een onafhankelijke ambachtelijke brouwerij gevestigd in Stavanger, Noorwegen. Ze produceren een breed scala aan bieren, van doordrinkbare alledaagse pilsen en pale ales tot gedurfde en complexe stouts, gerstewijnen en gemengde gefermenteerde sours. Hun doel is eenvoudig : de beste bieren ter wereld te brouwen. Bieren die ze zelf graag drinken, ook als ze daar voor buiten hun comfortzone moeten gaan.",
           "link": "",
           "foto": "assets/images/brouwers/Lervig.png",
-          "liked": false
+          "liked": false,
+          "land": "Noorwegen"
         },
         {
           "naam": "Reservoir Dogs",
           "stand": "11",
-          "locatie": "",
+          "locatie": "Compressorenhal",
           "tijd": "",
-          "info": "abc",
+          "info": "Reservoir Dogs Craft Brewery is een brouwerij uit Nova Gorica, Slovenia. Ze bieden een grote variëteit aan bieren aan waaronder hun gekende barrel aged grape ales met lokale druiven en hun sours met (lokale) wijngisten. Een groot deel van de bieren verouderd op houten whiskey-, brandy- of tequilavaten Wij mochten ze zelf bezoeken en goedkeuren en zijn blij ze nu na een jaartje uitstel te mogen ontvangen. Een niet te missen kans !",
           "link": "",
           "foto": "assets/images/brouwers/ResDogs.jpeg",
-          "liked": false
+          "liked": false,
+          "land": "Slovenië"
         },
         {
           "naam": "Sudden Death",
           "stand": "12",
-          "locatie": "",
+          "locatie": "Compressorenhal",
           "tijd": "",
-          "info": "abc",
+          "info": "\"This is Sudden Death Brewing. We love hockey, boom beers and loud rock 'n roll! These are our roots and that makes our brewery unique in Germany…\" staat er op hun website. Na verschillende jaren koekoeksbrouwen kwam er in 2022 een eigen brouwerij in de culturele wijk van Lübeck. Net als goede ijshockey mag het bier niet saai zijn, maar altijd spannend, ongewoon, gepassioneerd en onverwacht. Maar ook altijd drinkbaar - rock'n'roll in een glas (of in een blikje).",
           "link": "",
           "foto": "assets/images/brouwers/SuddenDeath.jpg",
-          "liked": false
+          "liked": false,
+          "land": "Duitsland"
         },
         {
           "naam": "Vleesmeester",
           "stand": "13",
-          "locatie": "",
+          "locatie": "Compressorenhal",
           "tijd": "",
-          "info": "abc",
+          "info": "Vleesmeester Brewery startte in 2010, toen 3 vrienden -na vele bierfestivals te hebben afgeschuimd- besloten om zelf bier te gaan maken.  Tijdens het schroten dachten hun bezoekrs dat ze bier maakten in een vleesmolen. Vandaar de naam, voor de grap, Vleesmeester Brewery.  De eerste voorkeur ging uit naar hoppige bieren zoals IPA's en Russian Imperial Stouts. Alle bieren werden getest in de brouwkit en achteraf bij brouwerij Anders gemaakt. In 2018 kwamen ze in de oude pastorij van Edegem terecht en startten ze samen met Bart Struyf een eigen cultuurcafé en eigen brouwerij (5HL)  in de Hoogmis. Een ideale speeltuin voor hun nieuwe bieren! ",
           "link": "",
           "foto": "assets/images/brouwers/Vleesmeester.png",
-          "liked": false
+          "liked": false,
+          "land": "België"
         },
         {
           "naam": "Crow Mountain",
           "stand": "14",
-          "locatie": "",
+          "locatie": "Compressorenhal",
           "tijd": "",
-          "info": "abc",
+          "info": "Vanuit de Belgische brouwtraditie, brouwen ze bij Crow Mountain lekkere craft Bieren. Dat gebeurt puur (zonder kunstmatige smaak of kleur en enkel natuurlijke grondstoffen), en eigenzinnig met een voorkeur voor Pale Ales, IPA's en Stouts. Al hun biernamen hebben een muziekthema en daarmee zijn ze op TBE op hun plaats! Vanaf 2013 brouwden ze in een oude schuur op de Kraaienberg (= Crow Mountain) maar sinds september 2021 kwam er een nieuwe installatie elders in Essen.",
           "link": "",
           "foto": "assets/images/brouwers/CrowMountain.jpg",
-          "liked": false
+          "liked": false,
+          "land": "België"
         },
         {
           "naam": "De Hophemel",
           "stand": "15",
-          "locatie": "",
+          "locatie": "Compressorenhal",
           "tijd": "",
-          "info": "abc",
+          "info": "Het verhaal van de Hophemel krijgt jaar na jaar een extra dimensie. DIt jaar werden Geert en Steven beloond met twee Beer Awards, \"beste brouwerij\" en \"beste biercafé\" ! En terwijl hun eerste bieren uit de eigen installatie in Hasselt vloeien staan ze  voor de derde keer hier te blinken, uiteraard met opnieuw geheel andere bieren. Als halve ambassadeurs van TBE verkochten ze al Lange Hoppy’s en Hop Miners in primeur trouwens. Schol !",
           "link": "",
           "foto": "assets/images/brouwers/Hophemel.png",
           "liked": false
@@ -163,271 +179,298 @@
         {
           "naam": "Cross-Over Blending",
           "stand": "16",
-          "locatie": "",
+          "locatie": "Compressorenhal",
           "tijd": "",
-          "info": "abc",
+          "info": "Crossover Blendery is gevestigd op Lannock Manor Farm op het platteland in Engeland. Een prachtige, rustige plek omringd door glooiende akkers en kleine weilanden. Opgericht door George en Charlie in 2018, richt ze zich op het produceren van complexe bieren die de drinker uitdagen en intrigeren. De bieren rijpen gedurende vele jaren in oude Franse eikenhouten vaten. De fermentaties zijn spontaan, wat betekent dat alleen wilde gisten en bacteriën in deze ales actief zijn. De nadruk wordt gelegd op het werken met hoogwaardige Britse ingrediënten. Er wordt rechtstreeks met lokale boeren en telers samengewerkt. Enjoy !",
           "link": "",
           "foto": "assets/images/brouwers/CrossOver.png",
-          "liked": false
+          "liked": false,
+          "land": "Engeland"
         },
         {
           "naam": "Nevel",
           "stand": "17",
-          "locatie": "",
+          "locatie": "Compressorenhal",
           "tijd": "",
-          "info": "abc",
+          "info": "Wilde en zure bieren, direct uit de natuur. Nevel heeft een belangrijke missie: mensen opnieuw in verbinding brengen met de natuur. Dat doen ze op eigenzinnige wijze: bier brouwen met 100% Nederlandse grondstoffen van duurzame en natuurinclusieve boeren en vergist met hun eigen unieke wilde gistcultuur. De resultaten zijn verbluffend : zorgvuldig uitgebalanceerde bieren die niet schreeuwen maar veel te vertellen hebben. Uitgesproken en evenwichtige karakters met uitdagende smaken, maar ook verfrissend, dorstlessend en laag in alcohol.",
           "link": "",
           "foto": "assets/images/brouwers/Nevel.jpeg",
-          "liked": false
+          "liked": false,
+          "land": "Nederland"
         },
         {
           "naam": "Sonnig Swert (winnaar BBC)",
-          "stand": "",
-          "locatie": "",
+          "stand": "E",
+          "locatie": "Machines",
           "tijd": "",
-          "info": "abc",
+          "info": "In de Machinezaal presenteert Brouwland het winnend bier van de Brouwland Bier Competitie van vorig jaar. Op zaterdag is de brouwer zelf ook aanwezig. Sonnig Swert is een zeer geslaagde Black IPA van 6,8% die je voor een laatste keer kan proeven.",
           "link": "",
           "foto": "assets/images/brouwers/Sonnig.jpg",
-          "liked": false
+          "liked": false,
+          "land": "België"
         },
         {
           "naam": "VandeStreek",
           "stand": "18",
-          "locatie": "",
+          "locatie": "Balzaal",
           "tijd": "",
-          "info": "abc",
+          "info": "De broers Sander en Ronald van de Streek startten in 2010 met hobbybrouwen in een flat in Kanaleneiland. Dat deze hobby volledig uit de hand is gelopen, kunnen we inmiddels wel zeggen. vandeStreek bier is ondertussen één van de grootste onafhankelĳke brouwerĳen van Nederland. met een export naar alle werelddelen en meer dan 22 landen. Hun alcoholvrije bieren zijn van de beste die er zijn maar kijk zeker niet naast hun gamma IPA's, blonds en Barley wines.",
           "link": "",
           "foto": "assets/images/brouwers/Vandestreek.png",
-          "liked": false
+          "liked": false,
+          "land": "Nederland"
         },
         {
           "naam": "Gekko",
           "stand": "19",
-          "locatie": "",
+          "locatie": "Balzaal",
           "tijd": "",
-          "info": "abc",
+          "info": "Gekko is een ambachtelijke brouwerij gevestigd in de Pays de Fayence in de Provence in Frankrijk.  Hun avontuur begon in 2018 met het brouwen van kleine batches in een tuinhuisje  en in 2020 verhuisden ze voor de volledige lancering van hun brouwsels. Gekko's team bestaat uit een Schotse en Poolse familieleden, ieder met  zijn passie en expertise. We gebruiken basisingrediënten van de hoogste kwaliteit om een ​​reeks moderne en traditionele ambachtelijke bieren te produceren. Hun motto :  voor iedereen bestaat er een biertje !",
           "link": "",
           "foto": "assets/images/brouwers/Gekko.png",
-          "liked": false
+          "liked": false,
+          "land": "Frankrijk"
         },
         {
           "naam": "Tipsy Tribe",
           "stand": "20",
-          "locatie": "",
+          "locatie": "Balzaal",
           "tijd": "",
-          "info": "abc",
+          "info": "Tipsy Tribe - een heuse brew stillery - is een ambachtelijke brouwerij-distilleerderij in Koekelberg, gerund door immigranten van de eerste generatie uit de VS en Turkije. Sinds 2016 begonnen met het brouwen van bier en al snel ook bezig met het distilleren van sterke drank! Duurzaamheid vormt de kern van Tipsy Tribe bij het maken van hun geweldige, lokale, ambachtelijke bieren en sterke dranken. Ze schuwen hierbij het experiment niet met o.a. bieren als een Japanese IPA, een BXL Kölsch of wat dacht je van de Ecuadorian Chocolate, Tea Raspberry Oatmeal Stout ? Wat zouden ze meegebracht hebben naar The Beer Experience ?",
           "link": "",
           "foto": "assets/images/brouwers/Tipsy.webp",
-          "liked": false
+          "liked": false,
+          "land": "België"
         },
         {
           "naam": "Achelse Kluis",
           "stand": "21",
-          "locatie": "",
+          "locatie": "Balzaal",
           "tijd": "",
-          "info": "abc",
+          "info": "De abdij van Achels ademt traditie uit, net als de vijf bieren uit het gamma van De Achelse Kluis. Straffe klassieke bieren van het hoogste Belgische vakmanschap. Met de toewijding van de trappisten waar de nieuwe bieren een eerbetoon aan zijn. Een staaltje van beheersing van de basisingredienten gerst, tarwe, haver en gist, al ontdek je in de nieuwe Achel Gallant ook  paarse heidebloemen !",
           "link": "",
           "foto": "assets/images/brouwers/AchelseKluis.png",
-          "liked": false
+          "liked": false,
+          "land": "België"
         },
         {
           "naam": "Huyghe",
           "stand": "22",
-          "locatie": "",
+          "locatie": "Balzaal",
           "tijd": "",
-          "info": "abc",
+          "info": "Eén van de grote jongens op het festival. De Roze Olifant uit Melle heeft een capaciteit van maar liefst 350.000 hectoliter. Op de oorspronkelijke bedrijfssite werd al sinds 1654 gebrouwen. De huidige brouwerij werd in 1906 door Leon Huyghe opgericht en is dus nog steeds een familiebrouwerij. Bekendste bieren zijn de Delirium Tremens, La Guillotine, Floris, St-Idesbald, Averbode  en Blanche des Neiges. Te verkrijgen in 85 landen én op The Beer Experience. Schollekes.",
           "link": "",
           "foto": "assets/images/brouwers/Huyghe.jpeg",
-          "liked": false
+          "liked": false,
+          "land": "België"
         },
         {
           "naam": "Het Nest",
           "stand": "23",
-          "locatie": "",
+          "locatie": "Balzaal",
           "tijd": "",
-          "info": "abc",
+          "info": "Sinds de eerste proefbrouwsels in 2000 in de bierproefclub groeide Het Nest uit tot een uit de kluiten gewassen hypermoderne brouwerij.  Omdat de thuisbasis van Het Nest Turnhout is, de stad van de speelkaarten, werd gekozen om naam van de bieren daar direct aan te verbinden. Het doel was om een grote straat in bieren op de markt te brengen: 10, boer, dame, heer en aas. Die doelstelling is al lang bereikt en het gamma is nu zeer gevarieerd en internationaal gekend. Een deel limited editions wordt in houten gerijpt in hun kelders.",
           "link": "",
           "foto": "assets/images/brouwers/Nest.png",
-          "liked": false
+          "liked": false,
+          "land": "België"
         },
         {
           "naam": "Cornelissen",
           "stand": "24",
-          "locatie": "",
+          "locatie": "Balzaal",
           "tijd": "",
-          "info": "abc",
+          "info": "Brouwerij Cornelissen (voorheen Sint Jozef) is een zesde generatie koppige ambachtelijke brouwerij uit Belgisch Limburg die 'ons' Pax Pils en Ops-Ale brachten. Ze hanteren nog steeds sterke familiewaarden. Ze brouwen zelf hun bieren en gebruiken daar nog altijd de originele koperen ketels voor. Tegenwoordig springen de Herkenrode en St-Gummarus reeksen in het oog. De Herkenrode Vesper is het enige abdijbier ter wereld dat stamt uit een vrouwenabdij van cisterciënzers.",
           "link": "",
           "foto": "assets/images/brouwers/Cornelissen.jpg",
-          "liked": false
+          "liked": false,
+          "land": "België"
         },
         {
           "naam": "Batteliek by Het Anker",
           "stand": "25",
-          "locatie": "",
+          "locatie": "Balzaal",
           "tijd": "",
-          "info": "abc",
+          "info": "Batteliek is een Mechelse microbrouwerij, microstokerij en limonaderij in een voormalige kerk. Je kan er workshops volgen, ontspannen en iets eten.  Onder hun bieren een koffiestout, white IPA, pils, amber, blond en tripel. Batteliek ontstond door een samenwerking van brouwerij Het Anker en stokerij De Molenberg. Proef hier al even voor je deze zomer een bezoekje brengt ;-)",
           "link": "",
           "foto": "assets/images/brouwers/Batteliek.jpg",
-          "liked": false
+          "liked": false,
+          "land": "België"
         },
         {
-          "naam": "Aerts Paradijs (zat)",
+          "naam": "Aerts Paradijs (Zaterdag)",
           "stand": "26",
-          "locatie": "balzaal",
+          "locatie": "Balzaal",
           "tijd": "",
-          "info": "abc",
+          "info": "Brouwerij Het Aerts Paradijs is een kleine lokale brouwerij in Koersel onder leiding van Jeroen Aerts. Op ambachtelijke wijze worden hier ciders, bieren en vruchtensappen geproduceerd, je proeft dus een op en top lokale en artisanale brouwerij. Komen voor de tweede keer een dagje af.",
           "link": "",
           "foto": "assets/images/brouwers/Aerts.png",
-          "liked": false
+          "liked": false,
+          "land": "België"
         },
         {
-          "naam": "Koolputter (zon)",
+          "naam": "Bèrringse Bier Brouwers (Zondag)",
           "stand": "26",
-          "locatie": "balzaal",
+          "locatie": "Balzaal",
           "tijd": "",
-          "info": "abc",
+          "info": "Deze Bèrringse Bier Brouwers uit, ja, Beringen, ontwikkelen en brouwen mijnwerkersbieren sinds 2004 vooral gekend onder de naam Koolputter. Uniek, straf, karaktervol en gegeerd in de mijngemeenten en omstreken. Ben je niet uit de buurt, dit is je kans !",
           "link": "",
           "foto": "assets/images/brouwers/Koolputter.png",
-          "liked": false
+          "liked": false,
+          "land": "België"
         },
         {
-          "naam": "At Tack (zat)",
+          "naam": "At Tack (Zaterdag)",
           "stand": "27/28",
-          "locatie": "balzaal",
+          "locatie": "Zwarte Zaal",
           "tijd": "14 - 18:30",
-          "info": "abc",
+          "info": "Zytholoog Karel Tack maakt bieren van eigen receptuur, gebrouwen met liefde voor de stiel ! Het begon in 2010 met een tripel genaamd De AmBassadeur, maar ondertussen heeft Karel al vele stijlen ontdekt en gemaakt waaronder een eerste gerijpte  sour, dark ales, champagnebieren en een IPA. We kijken uit naar wat hij nu te bieden heeft, jij ook ?",
           "link": "",
           "foto": "assets/images/brouwers/ATTACK.webp",
-          "liked": false
+          "liked": false,
+          "land": "België"
         },
         {
-          "naam": "Duron (zat)",
+          "naam": "Duron (Zaterdag)",
           "stand": "27/28",
-          "locatie": "balzaal",
+          "locatie": "Zwarte Zaal",
           "tijd": "14 - 18:30",
-          "info": "abc",
+          "info": "Bart Duron is een kleine home-blender uit Antwerpen met heus wel wat aanzien in 'het wereldje'. Geholpen en geïnspireerd door enkele voorbeelden zoals Pellicle, Bofkont en Bokke maakte Bart al lambiekblends met verse vijgen, Pinot Noire, Loquat, Abrikoos, enz… Wat zou hij nu voor ons bij hebben ?",
           "link": "",
           "foto": "assets/images/brouwers/DURON.jpg",
-          "liked": false
+          "liked": false,
+          "land": "België"
         },
         {
-          "naam": "Donder (zat)",
+          "naam": "Donder Fermeten (Zaterdag)",
           "stand": "27/28",
-          "locatie": "balzaal",
+          "locatie": "Zwarte zaal",
           "tijd": "18:30 - 23",
-          "info": "abc",
+          "info": "Donder Fermenten is een nieuw gezicht in Vlezenbeek,  Pajottenland. Ze stelden een dik jaar geleden hun eerst Saison, Oud Bruin en Lambic voor en we waren meteen verkocht. Deze nanobrouwerij stellen we dus graag aan jullie voor. Ondertussen is er een grape ale in het gamma bijgekomen. Happy lambiek for happy people !",
           "link": "",
           "foto": "assets/images/brouwers/Donder.png",
-          "liked": false
+          "liked": false,
+          "land": "België"
         },
         {
-          "naam": "Heidrun (zat)",
+          "naam": "WOFD Vergistingen (Zaterdag)",
           "stand": "27/28",
-          "locatie": "balzaal",
+          "locatie": "Zwarte Zaal",
           "tijd": "18:30 - 23",
-          "info": "abc",
-          "link": "",
-          "foto": "assets/images/brouwers/Heidrun.jpg",
-          "liked": false
-        },
-        {
-          "naam": "WOFD Vergistingen (zon)",
-          "stand": "27/28",
-          "locatie": "balzaal",
-          "tijd": "13 - 16:30",
-          "info": "abc",
+          "info": "Kleine blender uit Kortrijk waar Wout, Steven en Bram lambiekbieren maken. Nog niet zo lang geleden gestart maar zeker in de gaten te houden. Maakten al mooie dingen met rabarber, pinot noire, abrikozen, vlierbloesem, enz.. Kwamen vorig jaar als bezoeker en staan nu al bij de pop-ups, volgend jaar...",
           "link": "",
           "foto": "assets/images/brouwers/WOFD.png",
-          "liked": false
+          "liked": false,
+          "land": "België"
         },
         {
-          "naam": "Sans Tete (zon)",
+          "naam": "Sans Tete (Zondag)",
           "stand": "27/28",
-          "locatie": "balzaal",
+          "locatie": "Zwarte Zaal",
+          "tijd": "13 - 16:30",
+          "info": "Brusselse brasserie die we leerden kennen met een zeer geslaagde Brett Saison. Werken samen met het platenlabel Kraak waar ze op het festival hun Feesthondje serveren. Hebben ook een Grisette. Hun filisofie is  trachten uit te drukken wat bier voor hen betekent : simpel in ingrediënten, complex in smaak. Ze focussen op de fermentatie, waarbij elk bier op zijn eigen tempo mag vergisten. Geïnspireerd door traditionele saisons, gemaakt met wilde gisten.",
+          "link": "",
+          "foto": "assets/images/brouwers/SansTete.png",
+          "liked": false,
+          "land": "België"
+        },
+        {
+          "naam": "De La Sambre (Zondag)",
+          "stand": "27/28",
+          "locatie": "Zwarte Zaal",
           "tijd": "13 - 16:30",
           "info": "abc",
           "link": "",
-          "foto": "assets/images/brouwers/SansTete.png",
-          "liked": false
+          "foto": "assets/images/brouwers/Sambre.webp",
+          "liked": false,
+          "land": "België"
         },
         {
-          "naam": "BMOD Productions (zon)",
+          "naam": "BMOD (Zondag)",
           "stand": "27/28",
-          "locatie": "balzaal",
+          "locatie": "Zwarte Zaal",
           "tijd": "16:30 - 20",
-          "info": "abc",
+          "info": "David Chiaradia combineert eigenzinnig zijn passies voor zware metal music en bieren. De muziek vormt zijn inspiratie in het maken van de vaak ook zware bieren. Zelf noemt ie het Black Metal Infused Beer Brewing. Deze home-brewer uit Alken werkt sinds 2015 in kleine hoeveelheden (15 l)dus hier is je uitgelezen kans om deze door nummers, bands of concerten doordrenkte barleywines, brown strong ales, bourbon-infused brown ales en andere unieke recepten te proeven. Puur uit creatieve en gemeenschapszin.",
           "link": "",
           "foto": "assets/images/brouwers/BMOD.jpg",
-          "liked": false
+          "liked": false,
+          "land": "België"
         },
         {
-          "naam": "Duron (zon)",
+          "naam": "Heidrun (Zondag)",
           "stand": "27/28",
-          "locatie": "balzaal",
+          "locatie": "Zwarte Zaal",
           "tijd": "16:30 - 20",
-          "info": "abc",
+          "info": "Luc Bens is een Kempenaar met een wild hart. Hij maakt eigenzinnige blends op basis van een eigen (saison)brouwsel met toevoeging van vruchten en kruiden uit zijn eigen tuin en omgeving. Deze Lambiekstoemper weet op deze wijze zachte, fruitige en zure toetsen te combineren tot nieuwe unieke smaken. Maakt voor het allereerst zijn opwachting op een festival, al zal het maar voor eventjes zijn want ook hier gebeuren de zaken in kleine hoeveelheden. Go Luc !",
           "link": "",
-          "foto": "assets/images/brouwers/DURON.jpg",
-          "liked": false
+          "foto": "assets/images/brouwers/Heidrun.jpg",
+          "liked": false,
+          "land": "België"
         },
         {
           "naam": "Gooische bierbrouwerij",
           "stand": "29",
-          "locatie": "",
+          "locatie": "Zwarte Zaal",
           "tijd": "",
-          "info": "abc",
+          "info": "In 2010 nog een werktitel, nu een geweldige brouwerij waar ze een lokaal product maken, met lokale ingrediënten. Sinds 2017 staan de brouwketels in Hilversum. Door te werken met lokale telers voor de grondstoffen proberen ze het aantal km per liter bier zo laag mogelijk te houden. Gooische is een brouwerij met een sociale en maatschappelijke impact. Het team wordt geholpen door mensen met afstand tot de arbeidsmarkt en delen ze hun kennis en kunde met studenten. Hun Gooisch Zwart werd verkozen tot beste bier van Nederland.",
           "link": "",
           "foto": "assets/images/brouwers/Gooische.png",
-          "liked": false
+          "liked": false,
+          "land": "Nederland"
         },
         {
           "naam": "Trial & Ale",
           "stand": "30",
-          "locatie": "",
+          "locatie": "Zwarte Zaal",
           "tijd": "",
-          "info": "abc",
+          "info": "Tijd. Dat is wat nodig is om een product te produceren dat werkelijk uniek en memorabel is. 100% van T&A's ambachtelijke ales worden gerijpt en ondergaan een tweede fermentatie in eiken vaten afkomstig van de meest exclusieve wijngaarden in Californië. Hun fermentaties variëren van maanden tot jaren om een product te produceren dat het verhaal vertelt van zijn reis naar jouw glas. Hun blends zijn een momentopname, bewaard voor jouw plezier, die blijven evolueren om te worden gekoesterd en genoten voor decennia, als je natuurlijk in staat bent om de onvermijdelijke passage van - jaja- tijd te weerstaan en te beheersen.",
           "link": "",
           "foto": "assets/images/brouwers/TrialAle.png",
-          "liked": false
+          "liked": false,
+          "land": "Canada"
         },
         {
           "naam": "Kromme Haring",
           "stand": "31",
-          "locatie": "",
+          "locatie": "Zwarte Zaal",
           "tijd": "",
-          "info": "abc",
+          "info": "Onze curator van de zwarte zaal Jan Lemmens is niet alleen één van de mannen achter Carnivale Brettanomyces, hij is ook verbonden aan brouwerij De  Kromme Haring. Deze topbrouwerij en brewpub uit Utrecht weet een hoge kwaliteit te koppelen aan een breed gamma van interessante bieren en een heel eigen stijl. Ze  hebben een voorliefde voor Engelse mouten en Amerikaanse hopsoorten maar ook voor het  gebruik van minder bekende en gebruikte (wilde) gistsoorten. Verwacht het onverwachte !",
           "link": "",
           "foto": "assets/images/brouwers/KrommeHaring.jpg",
-          "liked": false
+          "liked": false,
+          "land": "Nederland"
         },
         {
-          "naam": "Bakkum",
+          "naam": "Bakkum Fermentation",
           "stand": "32",
-          "locatie": "",
+          "locatie": "Zwarte Zaal",
           "tijd": "",
-          "info": "abc",
+          "info": "Maarten Bakkum is een Den Haagse blender en home-brewer die ingredienten als Oost-Indische kers, wilde kurkuma, gerookte kiwi, groene walnoten, Muscat druiven, wilde abrikozen en rabarber, vlierbloesem,... niet uit de weg gaat. Bovendien heeft ie een uitstekende muzieksmaak, altijd een goed teken. Of kort volgens zijn Instagram : Just someone having fun preparing weird place bound beers brewed in a Den Haag backyard, spontaneously fermented in oak barrels under a veil of yeast…",
           "link": "",
           "foto": "assets/images/brouwers/Bakkum.png",
-          "liked": false
+          "liked": false,
+          "land": "Nederland"
         },
         {
           "naam": "Butcher's Tears",
           "stand": "33",
-          "locatie": "balzaal",
+          "locatie": "Zwarte Zaal",
           "tijd": "",
-          "info": "abc",
+          "info": "Deze artisanale en experimentele brouwerij uit Amsterdam komt ons voor een tweede keer biertjes schenken van allerlei allooi. Hun taproom is ook één van de leukste plekjes om te bezoeken in de stad. Ze focussen al sinds 2012 op ongewone en onderbelichte stijlen waarvan een deel via open gistkuipen. Brown ales, rookbieren, barley wines, mild ales,.. allemaal zwaar de moeite. Kwamen in 2022 al eens op uitnodiging van Antidoot, nu komen ze een dagje de Zwarte Zaal verrijken.",
           "link": "",
           "foto": "assets/images/brouwers/Butcher.png",
-          "liked": false
+          "liked": false,
+          "land": "Nederland"
         },
         {
-          "naam": "Bofkont",
+          "naam": "Bofkont (Zondag)",
           "stand": "33",
-          "locatie": "balzaal",
-          "tijd": "",
-          "info": "abc",
+          "locatie": "Zwarte Zaal",
+          "tijd": "verrassingsbezoek",
+          "info": "Onze ex-curator komt ook even 'dag' zeggen, en natuurlijk niet zonder enkele van zijn prachtcreaties mee te brengen. Absolute topper met internationale faam, en dit jaar krijg je maar 3 uur de tijd (of zolang de voorraad strekt) om te weten wat we hiermee bedoelen. Sam ligt ons na aan het hart en je proeft waarom. Denk aan fruitlambieken, blends met druiven en verfijnde kruidenmengsels. Doet ook een foodpairing met La Fruitiere (kaas) trouwens.",
           "link": "",
           "foto": "assets/images/brouwers/BOFKONT.png",
-          "liked": false
+          "liked": false,
+          "land": "België"
         }
       ]

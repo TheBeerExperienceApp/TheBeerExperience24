@@ -11,7 +11,7 @@
           <img class="logo" src="./assets/images/tbe-logo.png" alt="The Beer Experience Logo" />
         </template>
         <!-- <v-app-bar-title>The Beer Experience 2024</v-app-bar-title> -->
-        <v-btn icon>
+        <v-btn icon to="/TheBeerExperience24/liked" exact>
           <v-icon>mdi-heart</v-icon>
         </v-btn>
       </v-app-bar>
