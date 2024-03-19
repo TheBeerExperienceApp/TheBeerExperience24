@@ -1,12 +1,24 @@
 <template>
   <div>
-    <h1><span v-if="isLikedRoute">Liked </span>Brewers</h1>
+    <v-row class="text-center">
+      <v-col>
+        <h1><span v-if="isLikedRoute">Liked </span>Brouwers</h1>
+      </v-col>
+    </v-row>
+    <v-text-field
+      v-model="searchQuery"
+      label="Search"
+      solo
+      clearable
+      @input="filterBrewers"
+      append-inner-icon="mdi-magnify"
+    ></v-text-field>
     <v-row>
       <v-col
         cols="12"
         sm="4"
         md="4"
-        v-for="brewer in brewers"
+        v-for="brewer in filteredBrewers"
         :key="brewer.naam"
       >
         <v-card @click="handleBrewerClick(brewer)">
@@ -43,7 +55,7 @@
             icon="mdi-close"
             variant="text"
             @click="dialogVisible = false"
-            style="position: absolute; top: 0; right: 0; z-index: 2;"
+            style="position: absolute; top: 0; right: 0; z-index: 2"
           ></v-btn>
           <v-img
             height="150"
@@ -98,7 +110,6 @@ import beers from "../assets/bieren.json";
 
 const route = useRoute();
 const isLikedRoute = ref(route.path === "/TheBeerExperience24/liked");
-const brewers = ref<any>([]);
 const dialogVisible = ref(false);
 const selectedBrewer = ref({
   naam: "",
@@ -109,7 +120,10 @@ const selectedBrewer = ref({
   foto: "assets/images/tbe-logo.png",
   liked: false,
 });
+const brewers = ref<any>([]);
 const likedBrewers = ref<any>([]);
+let filteredBrewers = ref<any>([]);
+const searchQuery = ref("");
 
 onMounted(() => {
   const storedBrewers = localStorage.getItem("likedBrewers");
@@ -122,7 +136,18 @@ onMounted(() => {
   } else {
     brewers.value = brewersUnfiltered;
   }
+  filteredBrewers.value = [...brewers.value];
 });
+
+const filterBrewers = () => {
+  if (!searchQuery.value) {
+    filteredBrewers.value = [...brewers.value];
+  } else {
+    filteredBrewers.value = [...brewers.value.filter((x: any) =>
+      x.naam.toLowerCase().includes(searchQuery.value.toLowerCase())
+    )];
+  }
+};
 
 function handleBrewerClick(brewer: any) {
   selectedBrewer.value = brewer;

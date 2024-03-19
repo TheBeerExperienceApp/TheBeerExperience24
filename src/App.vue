@@ -64,7 +64,7 @@
         </v-btn>
       </v-bottom-navigation>
 
-      <v-navigation-drawer v-model="drawer" location="right" temporary>
+      <v-navigation-drawer v-model="drawer" location="right">
         <v-list>
           <v-list-item
             v-for="item in items"
