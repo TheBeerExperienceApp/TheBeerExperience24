@@ -1,8 +1,8 @@
 <template>
-  <div>
+  <v-container>
     <v-row class="text-center">
       <v-col>
-        <h1><span v-if="isLikedRoute">Liked </span>Brouwers</h1>
+        <h1><span v-if="isLikedRoute">Liked </span>Brouwers & Bieren</h1>
       </v-col>
     </v-row>
     <v-text-field
@@ -100,7 +100,7 @@
         </v-card-text>
       </v-card>
     </v-dialog>
-  </div>
+  </v-container>
 </template>
 
 <script lang="ts" setup>

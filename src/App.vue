@@ -77,7 +77,11 @@
               }
             "
             :active="$route.path === item.to"
-          />
+          >
+          <template v-slot:prepend>
+          <v-icon :icon="item.icon" color="secondary"></v-icon>
+        </template>
+          </v-list-item>
         </v-list>
       </v-navigation-drawer>
     </v-layout>
@@ -92,8 +96,8 @@ const value = ref(0);
 const drawer = ref(false);
 const items = [
   { title: "Food", icon: "mdi-food", to: "/TheBeerExperience24/food" },
-  { title: "Programma", icon: "mdi-food", to: "/TheBeerExperience24/program" },
-  { title: "Kunstwerken", icon: "mdi-food", to: "/TheBeerExperience24/art" },
+  { title: "Programma", icon: "mdi-calendar-blank", to: "/TheBeerExperience24/program" },
+  { title: "Kunstwerken", icon: "mdi-palette", to: "/TheBeerExperience24/art" },
   {
     title: "Partners",
     icon: "mdi-account-group",

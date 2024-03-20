@@ -1,9 +1,14 @@
 <template>
   <v-container>
-    <v-row class="section">
+    <v-row class="section pb-1">
       <v-col>
         <h1 class="section-title">Welkom bij "The Beer Experience 2024"</h1>
         <p class="section-content">"The Beer Experience" - een viering van bier in al zijn glorie. Verken, ontdek, geniet en laat je verrassen door wat de wereld van bier te bieden heeft. We heten je van harte welkom!</p>
+        <img
+            src="/assets/images/HOPPY_wink.png"
+            alt="Hoppy Wink"
+            style="height: 80px;"
+          />
       </v-col>
     </v-row>
     <v-divider></v-divider>
@@ -67,9 +72,12 @@
   }
 
   .section-title {
-    font-size: 2rem;
-    color: #333;
+    font-size: 3rem;
+    color: rgba(var(--v-theme-primary), 1);
+    text-shadow: 2px 4px 0px rgba(109, 109, 109, 0.344);
+    text-transform: uppercase;
     margin-bottom: 1rem;
+    text-align: center;
   }
 
   .section-subtitle {

@@ -15,7 +15,7 @@
         >
       </v-col>
     </v-row>
-    <v-row>
+    <v-row v-if="!isMobileView">
       <v-col cols="12" sm="0">
         <img
           :src="mapImagePath"
@@ -27,5 +27,8 @@
 </template>
 
 <script setup lang="ts">
+import { ref } from "vue";
 const mapImagePath = "/TheBeerExperience24/assets/images/plan.png";
+
+const isMobileView = ref(window.innerWidth <= 768);
 </script>
