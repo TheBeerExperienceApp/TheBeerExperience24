@@ -45,9 +45,9 @@
     <v-divider></v-divider>
     <v-row class="section">
       <v-col>
-        <h2 class="section-subtitle">Kunstwerken</h2>
+        <h2 class="section-subtitle">Art Experience</h2>
         <p class="section-content">Onder de titel 'Art Experience' tonen een 16-tal kunstenaars uit Heusden-Zolder hun creaties in diverse disciplines. De kunstwerken zijn verspreid over de locatie en kan je herkennen aan een bordje met wat info erbij. Aan de kunstenaars werd gevraagd om een 'bier gerelateerd' werk te maken. Keuze en plaatsing van de werken lag in handen van Laila Abdelmalek en Raf Nulens. Het is al voor het 3e jaar op rij dat The Beer Experience kunst omarmt als deel van de 'experience'.</p>
-        <v-btn class="cta-button" color="secondary py-3" to="/TheBeerExperience24/art">Ontdek onze kunstwerken</v-btn>
+        <v-btn class="cta-button" color="secondary py-3" to="/TheBeerExperience24/art">Ontdek de Art Experience</v-btn>
       </v-col>
     </v-row>
   </v-container>

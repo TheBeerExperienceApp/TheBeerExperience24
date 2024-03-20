@@ -97,7 +97,7 @@ const drawer = ref(false);
 const items = [
   { title: "Food", icon: "mdi-food", to: "/TheBeerExperience24/food" },
   { title: "Programma", icon: "mdi-calendar-blank", to: "/TheBeerExperience24/program" },
-  { title: "Kunstwerken", icon: "mdi-palette", to: "/TheBeerExperience24/art" },
+  { title: "Art Experience", icon: "mdi-palette", to: "/TheBeerExperience24/art" },
   {
     title: "Partners",
     icon: "mdi-account-group",
