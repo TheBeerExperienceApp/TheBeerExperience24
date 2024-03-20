@@ -1,27 +1,103 @@
 [
     {
-      "naam": "Bierrestaurant De Gebrande Winning",
+      "naam": "Pannenkoeken: Has Vegas",
       "locatie": "bovendek",
-      "foto": "assets/images/food/deGebrandeWinning.png"
+      "foto": "assets/images/food/pannenkoek.jpeg",
+      "food" : [
+        {
+          "naam": "2 pannenkoeken"   
+        }
+      ]
     },
     {
       "naam": "Cor e Leone",
       "locatie": "terras",
-      "foto": "assets/images/food/coreleone.jpeg"
-    },
-    {
-      "naam": "Chapter 10",
-      "locatie": "terras",
-      "foto": "assets/images/food/Chapter10.png"
-    },
-    {
-      "naam": "Smokey Food",
-      "locatie": "terras",
-      "foto": "assets/images/food/smokeyFood.webp"
+      "foto": "assets/images/food/coreleone.jpeg",
+      "food": [
+        {
+          "naam": "Broodje Porchetta"
+        },
+        {
+          "naam": "Broodje Arrosticini"
+        },
+        {
+          "naam": "Arrosticini uit het vuistje"
+        },
+        {
+          "naam": "Pizza Margherita"
+        }
+      ]
     },
     {
       "naam": "Frieten Eddy",
       "locatie": "terras",
-      "foto": "assets/images/food/Eddy.png"
+      "foto": "assets/images/food/eddy.jpeg",
+      "food": [
+        {
+          "naam": "Boulet, cervela, frikandel, mexicano, saté"
+        },
+        {
+          "naam": "Friet met saus"
+        },
+        {
+          "naam": "Friet met zelfbereid stoofvlees"
+        },
+        {
+          "naam": "Bickyburger"
+        }
+      ]
+    },
+    {
+      "naam": "Chapter 10",
+      "locatie": "terras",
+      "foto": "assets/images/food/chapter10.png",
+      "food": [
+        {
+          "naam": "Loaded zoete aardappel | paprikasaus | pittige kikkererwten | feta | granaatappel"
+        },
+        {
+          "naam": "Gevuld naanbrood | gebakken aubergine | tzatziki | hummus"
+        },
+        {
+          "naam": "Burger pulled jackfruit | koolsla | krokante uitjes | BBQ saus"   
+        },
+        {
+          "naam": "Aperobox (voor 2 personen)- Hummus met topping | dipbrood - notenmix - bitterballen | saus - olijven - kaasblokjes | mosterd"
+        }
+      ]
+    },
+    {
+      "naam": "Smokey Food",
+      "locatie": "terras",
+      "foto": "assets/images/food/SmokeyFood.webp",
+      "food": [
+        {
+          "naam": "Classic Beef Burger"
+        },
+        {
+          "naam": "Cheesy Bacon Hotdog"
+        },
+        {
+          "naam": "BBQ Nacho's Pulled Chicken/Pork"
+        },
+        {
+          "naam": "Classic/Veggie nacho's (veggie of vegan mogelijk)"
+        },
+        {
+          "naam": "Smokey Spareribs met coleslaw"
+        },
+        {
+          "naam": "Plain Nachos"
+        },
+        {
+          "naam": "Nachos & Cheese"
+        },
+        {
+          "naam": "Nachos & Guacamole"
+        },
+        {
+          "naam": "Veggie burger"
+        }
+      ]
     }
   ]

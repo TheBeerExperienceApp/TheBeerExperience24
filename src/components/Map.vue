@@ -3,7 +3,7 @@
     <v-row class="text-center">
       <v-col>
         <h1>Map</h1>
-        <p class="subtitle">
+        <p class="subtitle my-5">
           Om de map te kunnen zien, kun je deze ook downloaden met onderstaande
           knop.
         </p>

@@ -16,7 +16,7 @@
       <v-col>
         <h2 class="section-subtitle">Brouwers & bieren</h2>
         <p class="section-content">Ontdek een wereld van bieren, variërend van verfijnde ambachtelijke brouwsels tot gedurfde experimenten en traditionele klassiekers. Laat je smaakpapillen verwennen terwijl je langs onze diverse selectie wandelt, waar elke slok een nieuw avontuur is.</p>
-        <v-btn class="cta-button" color="primary py-3">Ontdek onze bieren</v-btn>
+        <v-btn class="cta-button" color="primary py-3" to="/TheBeerExperience24/beers">Ontdek onze bieren</v-btn>
       </v-col>
     </v-row>
     <v-divider></v-divider>
@@ -31,7 +31,7 @@
       <v-col>
         <h2 class="section-subtitle">Programma</h2>
         <p class="section-content">Ontdek het volledige spectrum van bierbeleving met ons boeiende programma vol foodpairings en muziek. Wat wil een mens nog meer? :)</p>
-        <v-btn class="cta-button" color="secondary py-3">Ontdek het programma</v-btn>
+        <v-btn class="cta-button" color="secondary py-3" to="/TheBeerExperience24/program">Ontdek het programma</v-btn>
       </v-col>
     </v-row>
     <v-divider></v-divider>
@@ -39,7 +39,7 @@
       <v-col>
         <h2 class="section-subtitle">Food</h2>
         <p class="section-content">En laten we het belangrijkste niet vergeten - het eten! Geniet van heerlijke culinaire creaties die perfect passen bij de verschillende bieren die we aanbieden.</p>
-        <v-btn class="cta-button" color="secondary py-3">Ontdek hier wat je kunt eten</v-btn>
+        <v-btn class="cta-button" color="secondary py-3" to="/TheBeerExperience24/food">Ontdek hier wat je kunt eten</v-btn>
       </v-col>
     </v-row>
     <v-divider></v-divider>
@@ -47,7 +47,7 @@
       <v-col>
         <h2 class="section-subtitle">Kunstwerken</h2>
         <p class="section-content">Onder de titel 'Art Experience' tonen een 16-tal kunstenaars uit Heusden-Zolder hun creaties in diverse disciplines. De kunstwerken zijn verspreid over de locatie en kan je herkennen aan een bordje met wat info erbij. Aan de kunstenaars werd gevraagd om een 'bier gerelateerd' werk te maken. Keuze en plaatsing van de werken lag in handen van Laila Abdelmalek en Raf Nulens. Het is al voor het 3e jaar op rij dat The Beer Experience kunst omarmt als deel van de 'experience'.</p>
-        <v-btn class="cta-button" color="secondary py-3">Ontdek onze kunstwerken</v-btn>
+        <v-btn class="cta-button" color="secondary py-3" to="/TheBeerExperience24/art">Ontdek onze kunstwerken</v-btn>
       </v-col>
     </v-row>
   </v-container>
