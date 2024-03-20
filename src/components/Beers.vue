@@ -66,25 +66,25 @@
           />
         </div>
         <!-- make primary -->
-        <v-card-title class="text-center"
+        <v-card-title class="text-center text-uppercase font-weight-black"
           >{{ selectedBrewer.naam }}
         </v-card-title>
         <v-divider
-          class="mx-5 border-opacity-100"
+          class="mx-5 border-opacity-100 mb-1"
           color="primary"
           :thickness="3"
         ></v-divider>
         <v-card-text>
-          <div class="text-center mb-2">
-            {{ selectedBrewer.stand }} • {{ selectedBrewer.locatie }}
+          <div class="text-center mb-2 text-overline">
+            {{ selectedBrewer.stand }} • {{ selectedBrewer.locatie }} <span v-if="selectedBrewer.tijd">| {{ selectedBrewer.tijd }}</span> | {{ selectedBrewer.land}}
           </div>
           <span>{{ selectedBrewer.info }}</span>
           <v-divider class="my-4 border-opacity-100"></v-divider>
-          <h3>Bieren</h3>
+          <h3 class="mb-3 text-uppercase">Bieren</h3>
           <div>
             <v-row
               v-for="(beer, index) in beers.filter(
-                (x) => x.brouwer === selectedBrewer.naam
+                (x) => selectedBrewer.naam.includes(x.brouwer)
               )"
               :key="index"
             >
@@ -93,6 +93,7 @@
                 <p>{{ beer.stijl }}</p>
                 <p>{{ beer.procent }}</p>
                 <p>{{ beer.special }}</p>
+                <p class="text-body-2">{{ beer.beschrijving }}</p>
               </v-col>
             </v-row>
           </div>
@@ -117,8 +118,10 @@ const selectedBrewer = ref({
   locatie: "",
   info: "",
   link: "",
+  tijd: "",
   foto: "assets/images/tbe-logo.png",
   liked: false,
+  land: ""
 });
 const brewers = ref<any>([]);
 const likedBrewers = ref<any>([]);

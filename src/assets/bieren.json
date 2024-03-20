@@ -1,1500 +1,866 @@
 [
-    {
-      "naam": "Jungle Fever",
-      "stijl": "BA Barley Wine",
-      "procent": "12,6%",
-      "special": "/",
-      "brouwer": "Bofkont (Zondag)"
-    },
-    {
-      "naam": "Triumph",
-      "stijl": "Vanilla Imperial Stout",
-      "procent": "10,5%",
-      "special": "/",
-      "brouwer": "Bofkont (Zondag)"
-    },
-    {
-      "naam": "Oh Boy",
-      "stijl": "Vanilla Latte Imperial Stout",
-      "procent": "10,7%",
-      "special": "/",
-      "brouwer": "Bofkont (Zondag)"
-    },
-    {
-      "naam": "Hypnotize",
-      "stijl": "DDH Cold IPA",
-      "procent": "6,6%",
-      "special": "/",
-      "brouwer": "Bofkont (Zondag)"
-    },
-    {
-      "naam": "Ouwen Duiker",
-      "stijl": "Pale Ale",
-      "procent": "7%",
-      "special": "/",
-      "brouwer": "Hedonis"
-    },
-    {
-      "naam": "Excuse Me while I Kiss My stout",
-      "stijl": "Dry Stout",
-      "procent": "5,4%",
-      "special": "/",
-      "brouwer": "Hedonis"
-    },
-    {
-      "naam": "Middenvakrijder",
-      "stijl": "Session IPA",
-      "procent": "3,1%",
-      "special": "/",
-      "brouwer": "Hedonis"
-    },
-    {
-      "naam": "Excuse Me While I Kiss My Cassandra",
-      "stijl": "Imp Oyster/ Coffee Stout",
-      "procent": "10,5%",
-      "special": "/",
-      "brouwer": "Hedonis"
-    },
-    {
-      "naam": "Damme Nation",
-      "stijl": "IPA",
-      "procent": "7%",
-      "special": "/",
-      "brouwer": "Hedonis"
-    },
-    {
-      "naam": "Suzanne",
-      "stijl": "Saison",
-      "procent": "5%",
-      "special": "/",
-      "brouwer": "Hedonis"
-    },
-    {
-      "naam": "PUG IPA",
-      "stijl": "DIPA",
-      "procent": "9%",
-      "special": "/",
-      "brouwer": "Hoppug"
-    },
-    {
-      "naam": "Wild Saison",
-      "stijl": "Mixed Fermentation Saison",
-      "procent": "7,5%",
-      "special": "/",
-      "brouwer": "Hoppug"
-    },
-    {
-      "naam": "Leo's Peat",
-      "stijl": "Imperial Stout Aged Peated Whiskey",
-      "procent": "11%",
-      "special": "/",
-      "brouwer": "Hoppug"
-    },
-    {
-      "naam": "Kweepeer '22",
-      "stijl": "Cider",
-      "procent": "6,1%",
-      "special": "glutenvrij",
-      "brouwer": "Hoppug"
-    },
-    {
-      "naam": "Zuur Moef",
-      "stijl": "Sour IPA",
-      "procent": "9%",
-      "special": "/",
-      "brouwer": "Hoppug"
-    },
-    {
-      "naam": "Trough The Grapevine 22",
-      "stijl": "Cider",
-      "procent": "6,7%",
-      "special": "glutenvrij",
-      "brouwer": "Hoppug"
-    },
-    {
-      "naam": "Oot The Windae Cognac BA",
-      "stijl": "Aged Scotch Ale",
-      "procent": "9,5%",
-      "special": "/",
-      "brouwer": "Hoppug"
-    },
-    {
-      "naam": "Bink Blanchke",
-      "stijl": "Witbier",
-      "procent": "5% ",
-      "special": "/",
-      "brouwer": "Kerkom"
-    },
-    {
-      "naam": "Bink Blond",
-      "stijl": "Blond",
-      "procent": "5,5%",
-      "special": "/",
-      "brouwer": "Kerkom"
-    },
-    {
-      "naam": "Winterbinkske",
-      "stijl": "Winterbier",
-      "procent": "8,3%",
-      "special": "/",
-      "brouwer": "Kerkom"
-    },
-    {
-      "naam": "Hopverdomme",
-      "stijl": "Belgian IPA",
-      "procent": "7%",
-      "special": "/",
-      "brouwer": "Kerkom"
-    },
-    {
-      "naam": "Adelardus Tripel",
-      "stijl": "Tripel",
-      "procent": "8,5%",
-      "special": "/",
-      "brouwer": "Kerkom"
-    },
-    {
-      "naam": "Bink Bruin",
-      "stijl": "Bruin",
-      "procent": "5,5%",
-      "special": "/",
-      "brouwer": "Kerkom"
-    },
-    {
-      "naam": "The 4 Horsemen - Death",
-      "stijl": "Barleywine Tobasco BA",
-      "procent": "14%",
-      "special": "/",
-      "brouwer": "d'Oude Maalderij"
-    },
-    {
-      "naam": "The 4 Horsemen - Famine",
-      "stijl": "Barleywine Porto BA",
-      "procent": "14%",
-      "special": "/",
-      "brouwer": "d'Oude Maalderij"
-    },
-    {
-      "naam": "The 4 Horsemen - War",
-      "stijl": "Barleywine Mezcal BA",
-      "procent": "14%",
-      "special": "/",
-      "brouwer": "d'Oude Maalderij"
-    },
-    {
-      "naam": "The 4 Horsemen - Conquest",
-      "stijl": "Barleywine Armagnac BA",
-      "procent": "14%",
-      "special": "/",
-      "brouwer": "d'Oude Maalderij"
-    },
-    {
-      "naam": "Slijkvisser Blond",
-      "stijl": "Tripel",
-      "procent": "11%",
-      "special": "/",
-      "brouwer": "Van Dijck"
-    },
-    {
-      "naam": "Slijkvisser Amber",
-      "stijl": "Amber",
-      "procent": "8,7%",
-      "special": "/",
-      "brouwer": "Van Dijck"
-    },
-    {
-      "naam": "Ne Gréllige",
-      "stijl": "Quadrupel",
-      "procent": "10%",
-      "special": "/",
-      "brouwer": "Van Dijck"
-    },
-    {
-      "naam": "Fuerte",
-      "stijl": "BA Rum/Whiskey",
-      "procent": "14,5%",
-      "special": "/",
-      "brouwer": "Van Dijck"
-    },
-    {
-      "naam": "Plèkpot",
-      "stijl": "Honingbier",
-      "procent": "7,5%",
-      "special": "/",
-      "brouwer": "Van Dijck"
-    },
-    {
-      "naam": "Blackout Single Malt Donker",
-      "stijl": "BA Whiskey",
-      "procent": "13,5%",
-      "special": "/",
-      "brouwer": "Van Dijck"
-    },
-    {
-      "naam": "Cosmic Series Talus",
-      "stijl": "DNEIPA",
-      "procent": "8%",
-      "special": "/",
-      "brouwer": "Les Intenables"
-    },
-    {
-      "naam": "Fat Medusa",
-      "stijl": "TNEIPA",
-      "procent": "10%",
-      "special": "/",
-      "brouwer": "Les Intenables"
-    },
-    {
-      "naam": "L'art de Lager",
-      "stijl": "Ilalian Pilsner",
-      "procent": "5,4%",
-      "special": "/",
-      "brouwer": "Les Intenables"
-    },
-    {
-      "naam": "Pretty Mountains",
-      "stijl": "DDH DIPA",
-      "procent": "7,8%",
-      "special": "/",
-      "brouwer": "Les Intenables"
-    },
-    {
-      "naam": "Muffin Cassis",
-      "stijl": "Black Currant Pastry Sour",
-      "procent": "6,8%",
-      "special": "/",
-      "brouwer": "Les Intenables"
-    },
-    {
-      "naam": "Espérance de Vie",
-      "stijl": "Bergamot, Lemon & Timut Saison",
-      "procent": "6%",
-      "special": "/",
-      "brouwer": "Les Intenables"
-    },
-    {
-      "naam": "Exotic Creamy Shot",
-      "stijl": "Imperial Lassi Gose",
-      "procent": "6,9%",
-      "special": "/",
-      "brouwer": "Les Intenables"
-    },
-    {
-      "naam": "Mokka Circus",
-      "stijl": "Breakfast Stout Brazilian Coffee",
-      "procent": "5,9%",
-      "special": "/",
-      "brouwer": "Les Intenables"
-    },
-    {
-      "naam": "Rik Raf Tripel ",
-      "stijl": "Tripel",
-      "procent": "8,5%",
-      "special": "/",
-      "brouwer": "BramBrass"
-    },
-    {
-      "naam": "Rik & Raf Filliers Genever BA",
-      "stijl": "BA Tripel",
-      "procent": "9%",
-      "special": "/",
-      "brouwer": "BramBrass"
-    },
-    {
-      "naam": "Warriors of Angelhill",
-      "stijl": "Bourbon BA Stout",
-      "procent": "12%",
-      "special": "/",
-      "brouwer": "BramBrass"
-    },
-    {
-      "naam": "Angel Heart",
-      "stijl": "Whiskey/ Bourbon BA Stout",
-      "procent": "12%",
-      "special": "/",
-      "brouwer": "BramBrass"
-    },
-    {
-      "naam": "Quoi Quoique Oie Couac",
-      "stijl": "Saison",
-      "procent": "6,8%",
-      "special": "/",
-      "brouwer": "BramBrass"
-    },
-    {
-      "naam": "Soon May The Wellerman Come",
-      "stijl": "BBA stout",
-      "procent": "12%",
-      "special": "/",
-      "brouwer": "BramBrass"
-    },
-    {
-      "naam": "Rum is The Answer",
-      "stijl": "Rum BA Stout",
-      "procent": "12%",
-      "special": "/",
-      "brouwer": "BramBrass"
-    },
-    {
-      "naam": "Þingvellir",
-      "stijl": "Icelandic IPA",
-      "procent": "7,2%",
-      "special": "/",
-      "brouwer": "Puffin Brewery"
-    },
-    {
-      "naam": "Jólasveinar",
-      "stijl": "Imp Milk Stout",
-      "procent": "9,5%",
-      "special": "/",
-      "brouwer": "Puffin Brewery"
-    },
-    {
-      "naam": "Fjaðrárgljúfur",
-      "stijl": "Skyr Sour Ale",
-      "procent": "9,5%",
-      "special": "/",
-      "brouwer": "Puffin Brewery"
-    },
-    {
-      "naam": "Holy roast",
-      "stijl": "Non-Alcohol Stout",
-      "procent": "0%",
-      "special": "alcoholvrij",
-      "brouwer": "Galea"
-    },
-    {
-      "naam": "Abyss of Darkness (Salted caramel Roasted Peanut)",
-      "stijl": "Imp Stout",
-      "procent": "11,5%",
-      "special": "/",
-      "brouwer": "Galea"
-    },
-    {
-      "naam": "Grand Cru",
-      "stijl": "Stronge Ale",
-      "procent": "9,5%",
-      "special": "/",
-      "brouwer": "Galea"
-    },
-    {
-      "naam": "The Mind of Annapurna (NEW)",
-      "stijl": "Imp Chai Latté Stout",
-      "procent": "11,5%",
-      "special": "NIEUW",
-      "brouwer": "Galea"
-    },
-    {
-      "naam": "Jaguar Warrior",
-      "stijl": "American Barley Wine",
-      "procent": "14%",
-      "special": "/",
-      "brouwer": "Galea"
-    },
-    {
-      "naam": "Want Some More Smores",
-      "stijl": "Imp Pastry Stout",
-      "procent": "11,5%",
-      "special": "/",
-      "brouwer": "Galea"
-    },
-    {
-      "naam": "Bean & Berry",
-      "stijl": "Blond Coffee Sour Ale",
-      "procent": "6,5%",
-      "special": "/",
-      "brouwer": "Galea"
-    },
-    {
-      "naam": "Berry & Bean",
-      "stijl": "Blond Cascara Sour Ale",
-      "procent": "6,5%",
-      "special": "/",
-      "brouwer": "Galea"
-    },
-    {
-      "naam": "Nighty Knight",
-      "stijl": "Imperial Black Sesame Stout",
-      "procent": "11,5%",
-      "special": "/",
-      "brouwer": "Galea"
-    },
-    {
-      "naam": "Black Pope Peru El Palto & Tahitian Vanilla Rum/Bourbon BA (PRIMEUR)",
-      "stijl": "Imp Coffee Stout",
-      "procent": "12,5%",
-      "special": "PRIMEUR",
-      "brouwer": "Galea"
-    },
-    {
-      "naam": "Belle Fleur",
-      "stijl": "IPA",
-      "procent": "6%",
-      "special": "/",
-      "brouwer": "Dochter van de Korenaar (Zaterdag)"
-    },
-    {
-      "naam": "Extase",
-      "stijl": "DIPA",
-      "procent": "8,5%",
-      "special": "/",
-      "brouwer": "Dochter van de Korenaar (Zaterdag)"
-    },
-    {
-      "naam": "Finesse Pure Oak",
-      "stijl": "BA Tripel",
-      "procent": "8,5%",
-      "special": "/",
-      "brouwer": "Dochter van de Korenaar (Zaterdag)"
-    },
-    {
-      "naam": "L'Ensemble di Montalcino",
-      "stijl": "BA Barley Wine",
-      "procent": "13%",
-      "special": "/",
-      "brouwer": "Dochter van de Korenaar (Zaterdag)"
-    },
-    {
-      "naam": "Kamehameha",
-      "stijl": "NEIPA",
-      "procent": "7%",
-      "special": "/",
-      "brouwer": "Zythologist"
-    },
-    {
-      "naam": "Confiture de Pomelo",
-      "stijl": "Pink Grapefuit Wild Sour",
-      "procent": "5%",
-      "special": "/",
-      "brouwer": "Zythologist"
-    },
-    {
-      "naam": "Claude",
-      "stijl": "Impossible Stout with Nougat",
-      "procent": "8,5%",
-      "special": "/",
-      "brouwer": "Zythologist"
-    },
-    {
-      "naam": "Habemus Papale",
-      "stijl": "Papale Oak Aged Funky Would Sour with Red Forest Fruit",
-      "procent": "8%",
-      "special": "/",
-      "brouwer": "Zythologist"
-    },
-    {
-      "naam": "Ku",
-      "stijl": "Kveik DIPA",
-      "procent": "8,5%",
-      "special": "/",
-      "brouwer": "Zythologist"
-    },
-    {
-      "naam": "La Chantaigne mi Cantare",
-      "stijl": "Pear Dessert Wild Sour",
-      "procent": "5,5%",
-      "special": "/",
-      "brouwer": "Zythologist"
-    },
-    {
-      "naam": "Crumble",
-      "stijl": "Oak Aged Funky Wild Sour",
-      "procent": "7,5%",
-      "special": "/",
-      "brouwer": "Zythologist"
-    },
-    {
-      "naam": "Ferraro Roger",
-      "stijl": "Imp Stout with Chocolate & Hazelnut Rochers",
-      "procent": "13%",
-      "special": "/",
-      "brouwer": "Zythologist"
-    },
-    {
-      "naam": "In The Nick of Time",
-      "stijl": "Hoppy Porter",
-      "procent": "8%",
-      "special": "/",
-      "brouwer": "Moersleutel"
-    },
-    {
-      "naam": "Buckwheat Malt",
-      "stijl": "Stout",
-      "procent": "11%",
-      "special": "/",
-      "brouwer": "Moersleutel"
-    },
-    {
-      "naam": "Raisin Awarness For Dried Grapes",
-      "stijl": "Grape Barleywine",
-      "procent": "12%",
-      "special": "/",
-      "brouwer": "Moersleutel"
-    },
-    {
-      "naam": "Fruitbomb",
-      "stijl": "DIPA",
-      "procent": "8%",
-      "special": "/",
-      "brouwer": "Moersleutel"
-    },
-    {
-      "naam": "Crank The Juice",
-      "stijl": "IPA",
-      "procent": "5,5%",
-      "special": "/",
-      "brouwer": "Moersleutel"
-    },
-    {
-      "naam": "Hovercraft",
-      "stijl": "TIPA",
-      "procent": "10%",
-      "special": "/",
-      "brouwer": "Moersleutel"
-    },
-    {
-      "naam": "Willy Tonka Red Beet",
-      "stijl": "Imp double Pastry",
-      "procent": "12%",
-      "special": "/",
-      "brouwer": "Moersleutel"
-    },
-    {
-      "naam": "Mystery beer",
-      "stijl": "???",
-      "procent": "???",
-      "special": "/",
-      "brouwer": "Moersleutel"
-    },
-    {
-      "naam": "Jus in de benen",
-      "stijl": "DIPA",
-      "procent": "8,7%",
-      "special": "/",
-      "brouwer": "De Coureur"
-    },
-    {
-      "naam": "St Patrick's Green Jersey",
-      "stijl": "Pale Ale",
-      "procent": "5,2%",
-      "special": "/",
-      "brouwer": "De Coureur"
-    },
-    {
-      "naam": "Ukranian Resistance Stout",
-      "stijl": "Double Chocolate Stout",
-      "procent": "8,3%",
-      "special": "/",
-      "brouwer": "De Coureur"
-    },
-    {
-      "naam": "Vermijd Een Hongerklop",
-      "stijl": "Hefeweizen",
-      "procent": "5,5%",
-      "special": "/",
-      "brouwer": "De Coureur"
-    },
-    {
-      "naam": "Riebedebie",
-      "stijl": "Sour gose",
-      "procent": "3,8%",
-      "special": "/",
-      "brouwer": "De Coureur"
-    },
-    {
-      "naam": "Cadans",
-      "stijl": "Pale Ale",
-      "procent": "5,2%",
-      "special": "/",
-      "brouwer": "De Coureur"
-    },
-    {
-      "naam": "Helemaal Choco Gerende",
-      "stijl": "Double Chocolate Stout",
-      "procent": "8,3%",
-      "special": "/",
-      "brouwer": "De Coureur"
-    },
-    {
-      "naam": "Free Bird",
-      "stijl": "Gluten Free IPA",
-      "procent": "6%",
-      "special": "glutenvrij",
-      "brouwer": "Basqueland (Hops 'n More)"
-    },
-    {
-      "naam": "Five Berry Cobbler",
-      "stijl": "Fruited Pastry Sour",
-      "procent": "6,5%",
-      "special": "/",
-      "brouwer": "Basqueland (Hops 'n More)"
-    },
-    {
-      "naam": "Fugu",
-      "stijl": "Premium Japanse Lager",
-      "procent": "5%",
-      "special": "/",
-      "brouwer": "Basqueland (Hops 'n More)"
-    },
-    {
-      "naam": "La Superbe Collab",
-      "stijl": "DDH IPA",
-      "procent": "6,6%",
-      "special": "/",
-      "brouwer": "Basqueland (Hops 'n More)"
-    },
-    {
-      "naam": "Elephant Juice",
-      "stijl": "Gose",
-      "procent": "4,5%",
-      "special": "/",
-      "brouwer": "Basqueland (Hops 'n More)"
-    },
-    {
-      "naam": "Dubbelgänger",
-      "stijl": "Dubbel",
-      "procent": "7%",
-      "special": "/",
-      "brouwer": "Basqueland (Hops 'n More)"
-    },
-    {
-      "naam": "Affogato",
-      "stijl": "Imp Pastry Stout",
-      "procent": "12%",
-      "special": "/",
-      "brouwer": "Basqueland (Hops 'n More)"
-    },
-    {
-      "naam": "Gravy",
-      "stijl": "Double Oat Cream IPA",
-      "procent": "8%",
-      "special": "/",
-      "brouwer": "Basqueland (Hops 'n More)"
-    },
-    {
-      "naam": "Easy Citra Haze",
-      "stijl": "Session IPA",
-      "procent": "4,6%",
-      "special": "/",
-      "brouwer": "Didko"
-    },
-    {
-      "naam": "Double Trouble",
-      "stijl": "American Strong",
-      "procent": "8,4%",
-      "special": "/",
-      "brouwer": "Didko"
-    },
-    {
-      "naam": "Cherry Poison BBA 2YO",
-      "stijl": "Cherry Imp Stout",
-      "procent": "13%",
-      "special": "/",
-      "brouwer": "Didko"
-    },
-    {
-      "naam": "Pearotechnic",
-      "stijl": "Pear/Amaretto Imp Stout",
-      "procent": "11,2%",
-      "special": "/",
-      "brouwer": "Didko"
-    },
-    {
-      "naam": "Memento Mori",
-      "stijl": "Porter",
-      "procent": "8,4%%",
-      "special": "/",
-      "brouwer": "Didko"
-    },
-    {
-      "naam": "Twin Pinks",
-      "stijl": "Session IPA",
-      "procent": "5%",
-      "special": "/",
-      "brouwer": "Didko"
-    },
-    {
-      "naam": "Black Attack",
-      "stijl": "Blackberry Imp Stout",
-      "procent": "13,7%",
-      "special": "/",
-      "brouwer": "Didko"
-    },
-    {
-      "naam": "Poisson Doré",
-      "stijl": "BA Saison",
-      "procent": "10%",
-      "special": "/",
-      "brouwer": "Kromme Haring"
-    },
-    {
-      "naam": "Mudskipper v14",
-      "stijl": "NEIPA",
-      "procent": "5,5%",
-      "special": "/",
-      "brouwer": "Kromme Haring"
-    },
-    {
-      "naam": "Dusky",
-      "stijl": "Sour IPA",
-      "procent": "4%",
-      "special": "/",
-      "brouwer": "Kromme Haring"
-    },
-    {
-      "naam": "Zander",
-      "stijl": "Baltic Porter",
-      "procent": "9%",
-      "special": "/",
-      "brouwer": "Kromme Haring"
-    },
-    {
-      "naam": "Barbarian Fishing v15",
-      "stijl": "NEDIPA",
-      "procent": "8%",
-      "special": "/",
-      "brouwer": "Kromme Haring"
-    },
-    {
-      "naam": "Beardfish",
-      "stijl": "Dry Stout",
-      "procent": "5,5%",
-      "special": "/",
-      "brouwer": "Kromme Haring"
-    },
-    {
-      "naam": "Fugu",
-      "stijl": "Saison met Yuzu",
-      "procent": "6,5%",
-      "special": "/",
-      "brouwer": "Kromme Haring"
-    },
-    {
-      "naam": "Kalle Met d'n Oak",
-      "stijl": "Vlaams Oud Bruin",
-      "procent": "8,5%",
-      "special": "/",
-      "brouwer": "Kromme Haring"
-    },
-    {
-      "naam": "Movida",
-      "stijl": "DIPA",
-      "procent": "8,5%",
-      "special": "/",
-      "brouwer": "Oso"
-    },
-    {
-      "naam": "Ursa Minor",
-      "stijl": "Session IPA",
-      "procent": "4,8%",
-      "special": "/",
-      "brouwer": "Oso"
-    },
-    {
-      "naam": "Frutal IV",
-      "stijl": "Sour Ale with Apricot/Mango/Pineapple",
-      "procent": "6,5%",
-      "special": "/",
-      "brouwer": "Oso"
-    },
-    {
-      "naam": "La Penultima",
-      "stijl": "Imperial Stout",
-      "procent": "6,7%",
-      "special": "/",
-      "brouwer": "Oso"
-    },
-    {
-      "naam": "Profit & Loss",
-      "stijl": "NEIPA",
-      "procent": "6%",
-      "special": "/",
-      "brouwer": "Oso"
-    },
-    {
-      "naam": "Westie",
-      "stijl": "Westcoast IPA",
-      "procent": "6,2%",
-      "special": "/",
-      "brouwer": "Oso"
-    },
-    {
-      "naam": "Rumoldus Raspberry Hibiscus Saison",
-      "stijl": "Fruit Saison",
-      "procent": "6%",
-      "special": "/",
-      "brouwer": "Hophemel"
-    },
-    {
-      "naam": "Cornelius",
-      "stijl": "Sour Grape Ale",
-      "procent": "6,5%",
-      "special": "/",
-      "brouwer": "Hophemel"
-    },
-    {
-      "naam": "Adelheid",
-      "stijl": "Oaked Calvados Barleywine",
-      "procent": "11,5%",
-      "special": "/",
-      "brouwer": "Hophemel"
-    },
-    {
-      "naam": "Hieronymus",
-      "stijl": "Westcoast IPA",
-      "procent": "6,5%",
-      "special": "/",
-      "brouwer": "Hophemel"
-    },
-    {
-      "naam": "Vitalis",
-      "stijl": "Black IPA",
-      "procent": "6,6%",
-      "special": "/",
-      "brouwer": "Hophemel"
-    },
-    {
-      "naam": "Egwin",
-      "stijl": "Hoppy Pale Ale",
-      "procent": "5,5%",
-      "special": "/",
-      "brouwer": "Hophemel"
-    },
-    {
-      "naam": "Stephana",
-      "stijl": "Kriek Saison",
-      "procent": "7%",
-      "special": "/",
-      "brouwer": "Hophemel"
-    },
-    {
-      "naam": "Elisabeth PassionFruit",
-      "stijl": "Sour Session IPA",
-      "procent": "3,3%",
-      "special": "/",
-      "brouwer": "Hophemel"
-    },
-    {
-      "naam": "Slaapmutske Extra glutenvrij",
-      "stijl": "Glutenvrij lager",
-      "procent": "5,3%",
-      "special": "glutenvrij",
-      "brouwer": "Slaapmutske"
-    },
-    {
-      "naam": "Slaapmutske Dubbel",
-      "stijl": "Glutenvrij dubbel",
-      "procent": "7,4%",
-      "special": "glutenvrij",
-      "brouwer": "Slaapmutske"
-    },
-    {
-      "naam": "Jan van Oudenaerde",
-      "stijl": "Glutenvrije Tripel",
-      "procent": "8%",
-      "special": "glutenvrij",
-      "brouwer": "Slaapmutske"
-    },
-    {
-      "naam": "FLOSS",
-      "stijl": "Oud Bruin",
-      "procent": "5%",
-      "special": "glutenvrij",
-      "brouwer": "Slaapmutske"
-    },
-    {
-      "naam": "Sunny Moon",
-      "stijl": "Alcoholfree",
-      "procent": "0,3%",
-      "special": "glutenvrij en alcoholvrij",
-      "brouwer": "Slaapmutske"
-    },
-    {
-      "naam": "Waltz#2 (PRIMEUR)",
-      "stijl": "Vienna Lager",
-      "procent": "4,9%",
-      "special": "PRIMEUR",
-      "brouwer": "Stroom"
-    },
-    {
-      "naam": "Belgian Star & Stripes",
-      "stijl": "West Coast IPA",
-      "procent": "6,2%",
-      "special": "/",
-      "brouwer": "Stroom"
-    },
-    {
-      "naam": "Yak",
-      "stijl": "Sichuan Kveik",
-      "procent": "7%",
-      "special": "/",
-      "brouwer": "Stroom"
-    },
-    {
-      "naam": "Boulet",
-      "stijl": "Belgian blond",
-      "procent": "6,4%",
-      "special": "/",
-      "brouwer": "Stroom"
-    },
-    {
-      "naam": "Forel",
-      "stijl": "American Wheat",
-      "procent": "5,4%",
-      "special": "/",
-      "brouwer": "Stroom"
-    },
-    {
-      "naam": "Supreme",
-      "stijl": "Rasberry Sour",
-      "procent": "4,2%",
-      "special": "/",
-      "brouwer": "Stroom"
-    },
-    {
-      "naam": "Early Summer",
-      "stijl": "Pale Ale",
-      "procent": "6,4%",
-      "special": "/",
-      "brouwer": "Stroom"
-    },
-    {
-      "naam": "The House",
-      "stijl": "Oatmeal Stout",
-      "procent": "6,5%",
-      "special": "/",
-      "brouwer": "Stroom"
-    },
-    {
-      "naam": "Zenne Pils",
-      "stijl": "Craft Lager",
-      "procent": "4,9%",
-      "special": "/",
-      "brouwer": "De La Senne"
-    },
-    {
-      "naam": "Zennegash",
-      "stijl": "Wheat",
-      "procent": "5,7%",
-      "special": "/",
-      "brouwer": "De La Senne"
-    },
-    {
-      "naam": "Stouterik",
-      "stijl": "Dry Stout",
-      "procent": "5%",
-      "special": "/",
-      "brouwer": "De La Senne"
-    },
-    {
-      "naam": "Coucou Puissant",
-      "stijl": "Amber Ale",
-      "procent": "9,5%",
-      "special": "/",
-      "brouwer": "De La Senne"
-    },
-    {
-      "naam": "Taras Boulba",
-      "stijl": "Hoppy Session Ale",
-      "procent": "4,5%",
-      "special": "/",
-      "brouwer": "De La Senne"
-    },
-    {
-      "naam": "Jambe-be-Bois",
-      "stijl": "Hoppy Tripel",
-      "procent": "8%",
-      "special": "/",
-      "brouwer": "De La Senne"
-    },
-    {
-      "naam": "Brussels Calling",
-      "stijl": "Belgian IPA",
-      "procent": "6,5%",
-      "special": "/",
-      "brouwer": "De La Senne"
-    },
-    {
-      "naam": "Artevelde Gentse Leute",
-      "stijl": "Blond",
-      "procent": "6,2%",
-      "special": "/",
-      "brouwer": "Artevelde / Haeseveld"
-    },
-    {
-      "naam": "Artevelde Grand Cru",
-      "stijl": "Grand Cru",
-      "procent": "7,2%",
-      "special": "/",
-      "brouwer": "Artevelde / Haeseveld"
-    },
-    {
-      "naam": "Haeseveld Strong Blond",
-      "stijl": "Blond",
-      "procent": "7,9%",
-      "special": "/",
-      "brouwer": "Artevelde / Haeseveld"
-    },
-    {
-      "naam": "Haeseveld Weizen",
-      "stijl": "Weizen",
-      "procent": "5,5%",
-      "special": "/",
-      "brouwer": "Artevelde / Haeseveld"
-    },
-    {
-      "naam": "Haeseveld Strong Dark",
-      "stijl": "Donker",
-      "procent": "8,7%",
-      "special": "/",
-      "brouwer": "Artevelde / Haeseveld"
-    },
-    {
-      "naam": "Artevelde Gentse Wijze",
-      "stijl": "Blond",
-      "procent": "8%",
-      "special": "/",
-      "brouwer": "Artevelde / Haeseveld"
-    },
-    {
-      "naam": "Artevelde Kriek",
-      "stijl": "Fruitbier",
-      "procent": "3,6%",
-      "special": "/",
-      "brouwer": "Artevelde / Haeseveld"
-    },
-    {
-      "naam": "Sint-Bernardus Abt 12",
-      "stijl": "Quadrupel",
-      "procent": "10%",
-      "special": "/",
-      "brouwer": "St. Bernardus"
-    },
-    {
-      "naam": "Tripel",
-      "stijl": "Tripel",
-      "procent": "8%",
-      "special": "/",
-      "brouwer": "St. Bernardus"
-    },
-    {
-      "naam": "Tokyo",
-      "stijl": "Saison/ Witbier",
-      "procent": "6%",
-      "special": "/",
-      "brouwer": "St. Bernardus"
-    },
-    {
-      "naam": "To Brett or not to Brett",
-      "stijl": "IPA vergist met Brett Brux Trois",
-      "procent": "5%",
-      "special": "/",
-      "brouwer": "Gistgeest"
-    },
-    {
-      "naam": "Quoi (collab met BramBrass)",
-      "stijl": "Saison",
-      "procent": "6,8%",
-      "special": "/",
-      "brouwer": "Gistgeest"
-    },
-    {
-      "naam": "Karrot",
-      "stijl": "Belgian IPA",
-      "procent": "6%",
-      "special": "/",
-      "brouwer": "Gistgeest"
-    },
-    {
-      "naam": "Weapon of Choice",
-      "stijl": "Triple IPA",
-      "procent": "9%",
-      "special": "/",
-      "brouwer": "Gistgeest"
-    },
-    {
-      "naam": "Alles Kapot",
-      "stijl": "Farmhouse Ale",
-      "procent": "5%",
-      "special": "/",
-      "brouwer": "Gistgeest"
-    },
-    {
-      "naam": "Darth Vapor",
-      "stijl": "Porter",
-      "procent": "6%",
-      "special": "/",
-      "brouwer": "Gistgeest"
-    },
-    {
-      "naam": "Lupulus Vista",
-      "stijl": "Tripel Dry Hop",
-      "procent": "8,5%",
-      "special": "/",
-      "brouwer": "Lupulus"
-    },
-    {
-      "naam": "La Nuit Americaine",
-      "stijl": "BA Imp Porter",
-      "procent": "9,5%",
-      "special": "/",
-      "brouwer": "Lupulus"
-    },
-    {
-      "naam": "Senyor Voltor",
-      "stijl": "Tripel",
-      "procent": "7,5%",
-      "special": "/",
-      "brouwer": "Lupulus"
-    },
-    {
-      "naam": "Lupulus Cryo Pop",
-      "stijl": "NEIPA",
-      "procent": "7%",
-      "special": "/",
-      "brouwer": "Lupulus"
-    },
-    {
-      "naam": "Lupulus 15 years",
-      "stijl": "Tripel Dry Hop",
-      "procent": "8,5%",
-      "special": "/",
-      "brouwer": "Lupulus"
-    },
-    {
-      "naam": "Jolly Poupée",
-      "stijl": "Red Ale",
-      "procent": "6,671%",
-      "special": "/",
-      "brouwer": "Lupulus"
-    },
-    {
-      "naam": "Hibernatus",
-      "stijl": "Dark Ale",
-      "procent": "9,5%",
-      "special": "/",
-      "brouwer": "Lupulus"
-    },
-    {
-      "naam": "Fructus",
-      "stijl": "Fruitbier",
-      "procent": "4,2%",
-      "special": "/",
-      "brouwer": "Lupulus"
-    },
-    {
-      "naam": "Bourbon BA Vanilla Barleywine",
-      "stijl": "BA Barleywine",
-      "procent": "12%",
-      "special": "/",
-      "brouwer": "Arpus"
-    },
-    {
-      "naam": "Port Wine BA Maple /Vanilla",
-      "stijl": "BA Imperial Stout",
-      "procent": "12%",
-      "special": "/",
-      "brouwer": "Arpus"
-    },
-    {
-      "naam": "Peach x Apricot x Mango x Strawberry x Lemon x Maple",
-      "stijl": "Smoothie Sour Ale",
-      "procent": "5%",
-      "special": "/",
-      "brouwer": "Arpus"
-    },
-    {
-      "naam": "DDH Galaxy x Citra x Enigma IPA",
-      "stijl": "DDH IPA",
-      "procent": "6,5%",
-      "special": "/",
-      "brouwer": "Arpus"
-    },
-    {
-      "naam": "TDH Nectaron",
-      "stijl": "TDH IPA",
-      "procent": "8%",
-      "special": "/",
-      "brouwer": "Arpus"
-    },
-    {
-      "naam": "Vanilla x Maple",
-      "stijl": "Imperial Stout",
-      "procent": "12%",
-      "special": "/",
-      "brouwer": "Arpus"
-    },
-    {
-      "naam": "QDH Citra Cryo x Galaxy x Vic Secret x Nectaron QIPA",
-      "stijl": "QDH QIPA",
-      "procent": "12%",
-      "special": "/",
-      "brouwer": "Arpus"
-    },
-    {
-      "naam": "Kiwi x Mango x Strawberry x Coconut",
-      "stijl": "Sour Ale",
-      "procent": "5%",
-      "special": "/",
-      "brouwer": "Arpus"
-    },
-    {
-      "naam": "Beyond the Atmosphere",
-      "stijl": "NETIPA",
-      "procent": "10%",
-      "special": "/",
-      "brouwer": "Folkingebrew"
-    },
-    {
-      "naam": "Act of Bravery",
-      "stijl": "NE WHITE DIPA",
-      "procent": "8,5%",
-      "special": "/",
-      "brouwer": "Folkingebrew"
-    },
-    {
-      "naam": "Sour sequence #5",
-      "stijl": "Fruit Berliner Weise",
-      "procent": "7,5%",
-      "special": "/",
-      "brouwer": "Folkingebrew"
-    },
-    {
-      "naam": "Darkest Hour (with Cacao Nibs & Vanilla)",
-      "stijl": "Imp Stout",
-      "procent": "11%",
-      "special": "/",
-      "brouwer": "Folkingebrew"
-    },
-    {
-      "naam": "Pinot Blanc 2022",
-      "stijl": "natuurwijn",
-      "procent": "11%",
-      "special": "/",
-      "brouwer": "Drap (Zondag)"
-    },
-    {
-      "naam": "Souvignier Gris 2021",
-      "stijl": "natuurwijn",
-      "procent": "10,5%",
-      "special": "/",
-      "brouwer": "Drap (Zondag)"
-    },
-    {
-      "naam": "Gewurz Souvignier Gris 2022",
-      "stijl": "natuurwijn",
-      "procent": "11,5%",
-      "special": "/",
-      "brouwer": "Drap (Zondag)"
-    },
-    {
-      "naam": "Muscaris 2021",
-      "stijl": "natuurwijn",
-      "procent": "11,5%",
-      "special": "/",
-      "brouwer": "Drap (Zondag)"
-    },
-    {
-      "naam": "All the Way Down - Wings Brewing Company",
-      "stijl": "Saison",
-      "procent": "6%",
-      "special": "/",
-      "brouwer": "Bofkont"
-    },
-    {
-      "naam": "Dry Hop 2021",
-      "stijl": "/",
-      "procent": "/",
-      "special": "/",
-      "brouwer": "Bofkont"
-    },
-    {
-      "naam": "Bourbon Kriek 2020",
-      "stijl": "/",
-      "procent": "/",
-      "special": "/",
-      "brouwer": "Bofkont"
-    },
-    {
-      "naam": "Dancing In The Moonlight 2021",
-      "stijl": "/",
-      "procent": "/",
-      "special": "/",
-      "brouwer": "Bofkont"
-    },
-    {
-      "naam": "Muskaat 2020",
-      "stijl": "/",
-      "procent": "/",
-      "special": "/",
-      "brouwer": "Bofkont"
-    },
-    {
-      "naam": "Rabarber Kardemon 2021",
-      "stijl": "/",
-      "procent": "/",
-      "special": "/",
-      "brouwer": "Bofkont"
-    },
-    {
-      "naam": "Summer 22",
-      "stijl": "/",
-      "procent": "/",
-      "special": "/",
-      "brouwer": "Bofkont"
-    },
-    {
-      "naam": "Raspoetin 2021",
-      "stijl": "/",
-      "procent": "/",
-      "special": "/",
-      "brouwer": "Bofkont"
-    },
-    {
-      "naam": "Kallise Merlot Kriek 2020",
-      "stijl": "/",
-      "procent": "/",
-      "special": "/",
-      "brouwer": "Bofkont"
-    },
-    {
-      "naam": "From Canada With Love 2019",
-      "stijl": "/",
-      "procent": "/",
-      "special": "/",
-      "brouwer": "Bofkont"
-    },
-    {
-      "naam": "Captain Muscat 2020",
-      "stijl": "/",
-      "procent": "/",
-      "special": "/",
-      "brouwer": "Bofkont"
-    },
-    {
-      "naam": "It's Just a p-Haze",
-      "stijl": "Kweeper cider",
-      "procent": "7%",
-      "special": "/",
-      "brouwer": "Pellicle (Zondag)"
-    },
-    {
-      "naam": "Momentum",
-      "stijl": "Pruimencider",
-      "procent": "7%",
-      "special": "/",
-      "brouwer": "Pellicle (Zondag)"
-    },
-    {
-      "naam": "Rosemary Fields Forever",
-      "stijl": "Kriekenlambiek met Rozemarijn",
-      "procent": "6%",
-      "special": "/",
-      "brouwer": "Pellicle (Zondag)"
-    },
-    {
-      "naam": "Mirabelge",
-      "stijl": "Lambik met Mirabelle",
-      "procent": "6%",
-      "special": "/",
-      "brouwer": "Pellicle (Zondag)"
-    },
-    {
-      "naam": "Marie 2022",
-      "stijl": "Lambic Fruit",
-      "procent": "6%",
-      "special": "/",
-      "brouwer": "Vermeersch (Zaterdag)"
-    },
-    {
-      "naam": "Marleen 2022",
-      "stijl": "Lambic Fruit",
-      "procent": "6%",
-      "special": "/",
-      "brouwer": "Vermeersch (Zaterdag)"
-    },
-    {
-      "naam": "Paul 2022",
-      "stijl": "Lambic Geuze",
-      "procent": "6%",
-      "special": "/",
-      "brouwer": "Vermeersch (Zaterdag)"
-    },
-    {
-      "naam": "Lieve 2022",
-      "stijl": "Lambic Fruit",
-      "procent": "6%",
-      "special": "/",
-      "brouwer": "Vermeersch (Zaterdag)"
-    },
-    {
-      "naam": "Jan 2022",
-      "stijl": "Lambic Fruit",
-      "procent": "6%",
-      "special": "/",
-      "brouwer": "Vermeersch (Zaterdag)"
-    },
-    {
-      "naam": "Rrrrraise the Sails",
-      "stijl": "Westcoast IPA",
-      "procent": "6,6%",
-      "special": "/",
-      "brouwer": "Uncharted"
-    },
-    {
-      "naam": "Easy Does It",
-      "stijl": "DDH IPA",
-      "procent": "6%",
-      "special": "/",
-      "brouwer": "Uncharted"
-    },
-    {
-      "naam": "I Am Not Human",
-      "stijl": "Cold IPA",
-      "procent": "5,8%",
-      "special": "/",
-      "brouwer": "Uncharted"
-    },
-    {
-      "naam": "Whisper",
-      "stijl": "American Stout",
-      "procent": "8,7%",
-      "special": "/",
-      "brouwer": "Uncharted"
-    },
-    {
-      "naam": "Black River",
-      "stijl": "Red Wine BA zwarte bessen mede",
-      "procent": "15%",
-      "special": "/",
-      "brouwer": "Mederie (Zondag)"
-    },
-    {
-      "naam": "Experimead #15",
-      "stijl": "17 months whiskey BA with maple syrup",
-      "procent": "15%",
-      "special": "/",
-      "brouwer": "Mederie (Zondag)"
-    },
-    {
-      "naam": "Apple of my Eye",
-      "stijl": "BA Spontaneous Cider",
-      "procent": "6%",
-      "special": "/",
-      "brouwer": "Mederie (Zondag)"
-    },
-    {
-      "naam": "Oh la la la",
-      "stijl": "BA Spontaneous Bessen Cider",
-      "procent": "8%",
-      "special": "/",
-      "brouwer": "Mederie (Zondag)"
-    },
-    {
-      "naam": "Cuvee de Mortagnerie",
-      "stijl": "BA Braggit (Bier - Mede Hybride)",
-      "procent": "13,5%",
-      "special": "/",
-      "brouwer": "Mederie (Zondag)"
-    }
-  ]
+  {
+    "naam": "Hobos Grote Hof Cognac Barrel Aged (Zo)",
+    "brouwer": "Molder & Coop",
+    "stijl": "Honey Beer",
+    "procent": "10% ABV",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Freyja's Love Øl (Zo)",
+    "brouwer": "Molder & Coop",
+    "stijl": "Pale Ale - American",
+    "procent": "7% ABV",
+    "special": "",
+    "beschrijving": "An American Pale Ale brewed with Target, Amarillo & Mosaic hops."
+  },
+  {
+    "naam": "Hobos Dubbel (Zo)",
+    "brouwer": "Molder & Coop",
+    "stijl": "Belgian Dubbel",
+    "procent": "7.5% ABV",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Hobos (Zo)",
+    "brouwer": "Molder & Coop",
+    "stijl": "Belgian Blonde",
+    "procent": "6.5% ABV",
+    "special": "",
+    "beschrijving": "Volmondig maar goed doordrinkbaar bier. Licht wazig, zoete toetsen, licht fruitig, een lichte kruidigheid. evenwichtig. Smaakexplosie, schuimstabiliteit."
+  },
+  {
+    "naam": "Cuvée Jerome (Zo)",
+    "brouwer": "De Meester",
+    "stijl": "Belgian Blonde",
+    "procent": "7.5% ABV",
+    "special": "",
+    "beschrijving": "Een pittig blondje met een fruitig hop aroma's"
+  },
+  {
+    "naam": "NATUURBLEND DE MEESTER (Zo)",
+    "brouwer": "De Meester",
+    "stijl": "Cider - Dry",
+    "procent": "6.5% ABV",
+    "special": "",
+    "beschrijving": "This beer is a 50% CIDER/ 50%LAMBIK STYLE blend"
+  },
+  {
+    "naam": "Mok Master #4 Cognac Barrel Aged (Zo)",
+    "brouwer": "De Meester",
+    "stijl": "Stout - Imperial",
+    "procent": "13% ABV",
+    "special": "",
+    "beschrijving": "Aged for 9 months in Cognac barrels"
+  },
+  {
+    "naam": "Mok Coconut (Zo)",
+    "brouwer": "De Meester",
+    "stijl": "Stout - Imperial",
+    "procent": "13% ABV",
+    "special": "",
+    "beschrijving": "Imperial stout dry hopped with toasted coconut flakes. The real bounty taste."
+  },
+  {
+    "naam": "Dokkie",
+    "brouwer": "DOK Brewing Co",
+    "stijl": "Non-Alcoholic Beer - Sour",
+    "procent": "0.3% ABV",
+    "special": "Non-Alcoholic Beer",
+    "beschrijving": ""
+  },
+  {
+    "naam": "13 Artisanale Pils - Hergist (Black Label)",
+    "brouwer": "DOK Brewing Co",
+    "stijl": "Pilsner - Other",
+    "procent": "4% ABV",
+    "special": "",
+    "beschrijving": "Belgian hop, unpasteurised, unfiltered, fermentation in the bottle."
+  },
+  {
+    "naam": "DuDoRų",
+    "brouwer": "DOK Brewing Co",
+    "stijl": "Farmhouse Ale - Other",
+    "procent": "6% ABV",
+    "special": "",
+    "beschrijving": "Post Modern Farmhouse Ale DuDoRų"
+  },
+  {
+    "naam": "Saint James Porter",
+    "brouwer": "DOK Brewing Co",
+    "stijl": "Stout - Irish Dry",
+    "procent": "5.2% ABV",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Hop Uw Muil",
+    "brouwer": "DOK Brewing Co",
+    "stijl": "IPA - Imperial",
+    "procent": "7.1% ABV",
+    "special": "",
+    "beschrijving": "Dubbele IPA met nitro (stikstof) - Gebrouwen met gerstemout, haver en tarwe. We hopten het met Merkur, Simcoe en de experimentele variëteit YCH 303."
+  },
+  {
+    "naam": "Hop Circle (Zo)",
+    "brouwer": "Fugu Brewing Co",
+    "stijl": "IPA - Imperial",
+    "procent": "8% ABV",
+    "special": "",
+    "beschrijving": "Did you know that the Fugu draws crop circles in the bottom of the sea in order to attract the female? At Fugu Brewing, we wanna catch the freshest hops."
+  },
+  {
+    "naam": "Fugushima (Zo)",
+    "brouwer": "Fugu Brewing Co",
+    "stijl": "IPA - New England",
+    "procent": "6.2% ABV",
+    "special": "",
+    "beschrijving": "Our flagship beer. Brewed in 2021 for the first time, the Fugushima is an explosion of Citra, Cryo Citra and Simcoe."
+  },
+  {
+    "naam": "Samurai (Zo)",
+    "brouwer": "Fugu Brewing Co",
+    "stijl": "Pale Ale - Belgian",
+    "procent": "3.8% ABV",
+    "special": "",
+    "beschrijving": "This Pale Ale is our Belgian-Japanese connexion. We dry-hopped it with 2 different hops: Belgian harvested Chinook and the famous Japanese Sorachi Ace. We also used Chit malt."
+  },
+  {
+    "naam": "Zoltan - Tobermory BA (Zo)",
+    "brouwer": "100 Watt & Van Moll",
+    "stijl": "Stout - Imperial",
+    "procent": "11% ABV",
+    "special": "",
+    "beschrijving": "Tobermory Barrel Aged Imperial Stout"
+  },
+  {
+    "naam": "Wodan (Zo)",
+    "brouwer": "100 Watt & Van Moll",
+    "stijl": "Wheat Beer - Wheat Wine",
+    "procent": "10.5% ABV",
+    "special": "",
+    "beschrijving": "Imperial Weizen. Or a barley wine made with 50% wheat and an original Weizen yeast....a Weizenwein! Silky smooth, dangerously drinkable. Ganz toll!"
+  },
+  {
+    "naam": "Toewijding (Zo)",
+    "brouwer": "100 Watt & Van Moll",
+    "stijl": "Belgian Blonde",
+    "procent": "6.5% ABV",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Langharig Tuig (Zo)",
+    "brouwer": "100 Watt & Van Moll",
+    "stijl": "Wheat Beer - Hefeweizen",
+    "procent": "5.5% ABV",
+    "special": "",
+    "beschrijving": "Hoppy Weizen"
+  },
+  {
+    "naam": "400 Volt BA Early Times Bourbon (Zo)",
+    "brouwer": "100 Watt & Van Moll",
+    "stijl": "Stout - Russian Imperial",
+    "procent": "10% ABV",
+    "special": "",
+    "beschrijving": "First time our 400 Volt sees bourbon barrels. Technically it’s not bourbon since Early Times whiskey, as it is marketed in the US, is aged for 3 years."
+  },
+  {
+    "naam": "Non De Jus! (Zo)",
+    "brouwer": "100 Watt & Van Moll",
+    "stijl": "Belgian Tripel",
+    "procent": "8.8% ABV",
+    "special": "",
+    "beschrijving": "Cereal Tripel brewed with Camomille, Paradise seeds and Lemon zeste."
+  },
+  {
+    "naam": "Witte Donder (Zo)",
+    "brouwer": "100 Watt & Van Moll",
+    "stijl": "IPA - White",
+    "procent": "5.5% ABV",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Soylent Green (Zo)",
+    "brouwer": "100 Watt & Van Moll",
+    "stijl": "IPA - American",
+    "procent": "7% ABV",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Vicaris Nano (Zo)",
+    "brouwer": "Dilewyns / Vicaris",
+    "stijl": "Non-Alcoholic Beer - Other",
+    "procent": "0.3% ABV",
+    "special": "Non-Alcoholic Beer",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Vicaris Lino (Zo)",
+    "brouwer": "Dilewyns / Vicaris",
+    "stijl": "Belgian Blonde",
+    "procent": "6.5% ABV",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Vicaris Tripel (Zo)",
+    "brouwer": "Dilewyns / Vicaris",
+    "stijl": "Belgian Tripel",
+    "procent": "8.5% ABV",
+    "special": "",
+    "beschrijving": "Vicaris tripel is an elegant balanced soft beer with a fruity touch. The beer is not overtly bitter nor too sweet wich makes it accessible for many beer lovers."
+  },
+  {
+    "naam": "Vicaris Quinto (Zo)",
+    "brouwer": "Dilewyns / Vicaris",
+    "stijl": "Belgian Blonde",
+    "procent": "5% ABV",
+    "special": "",
+    "beschrijving": "Quinto\" is the italian name choosen for the fifth Vicaris beer. The name is a tribute to the italian brewery equipment and five is also the ABV."
+  },
+  {
+    "naam": "Tripel Rhum - Creatives (Zo)",
+    "brouwer": "Dilewyns / Vicaris",
+    "stijl": "Belgian Tripel",
+    "procent": "8.5% ABV",
+    "special": "",
+    "beschrijving": "Is een bier op basis van onze Vicaris Tripel, verrijkt met een infusie van rum en extra eikensnippers. Dit resulteert in een mooi gebalanceerd, volmondig en krachtig blond bier"
+  },
+  {
+    "naam": "Patience For Eylenbosch -Belgian Pale Ale (Pale Ale Speciale) (Zo)",
+    "brouwer": "Eylenbosch",
+    "stijl": "Pale Ale - Belgian",
+    "procent": "6% ABV",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Wild Blond (Zo)",
+    "brouwer": "Eylenbosch",
+    "stijl": "Farmhouse Ale - Bière de Coupage",
+    "procent": "7% ABV",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Schaarbeekse Oude Kriek (Zo)",
+    "brouwer": "Eylenbosch",
+    "stijl": "Lambic - Kriek",
+    "procent": "6.2% ABV",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Patience For Eylenbosch - Hoppy Saison (Zo)",
+    "brouwer": "Eylenbosch",
+    "stijl": "Farmhouse Ale - Saison",
+    "procent": "5.5% ABV",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Cuvee Kluybosch - Lambiek - Vijgen (Zo)",
+    "brouwer": "Angerik",
+    "stijl": "Lambic - Fruit",
+    "procent": "6.5% ABV",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Cuvée Kluysbosch - Lambiek (Zo)",
+    "brouwer": "Angerik",
+    "stijl": "Lambic - Traditional",
+    "procent": "6% ABV",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Record (Zo)",
+    "brouwer": "Angerik",
+    "stijl": "Belgian Blonde",
+    "procent": "6% ABV",
+    "special": "",
+    "beschrijving": "Brewed with Belgian record hops"
+  },
+  {
+    "naam": "Spezial Pilsner (Zo)",
+    "brouwer": "Lervig",
+    "stijl": "Pilsner - Other",
+    "procent": "4.7% ABV",
+    "special": "",
+    "beschrijving": "This hoppy unfiltered pilsner is a refreshing and flavorful take on the classic style. The hops provide a burst of flavor and aroma that’s balanced by a clean malt character."
+  },
+  {
+    "naam": "Off the Rack Finnish Rye Whiskey Imperial Stout by Rackhouse (Zo)",
+    "brouwer": "Lervig",
+    "stijl": "Stout - Imperial",
+    "procent": "16.7% ABV",
+    "special": "",
+    "beschrijving": "Introducing a robust masterpiece with a bold 16.7% ABV. This beer has been aged for 12 months in Finnish Rye Whiskey barrels, resulting in a symphony of deep flavors."
+  },
+  {
+    "naam": "Kveik Culture: Brewski (Zo)",
+    "brouwer": "Lervig",
+    "stijl": "Sour - Smoothie",
+    "procent": "8% ABV",
+    "special": "",
+    "beschrijving": "The first instalment of our 2024 collaboration series with long time friends, Brewski. A fruited sour with mango and vanilla fermented with Norwegian Kveik yeast."
+  },
+  {
+    "naam": "Defunked By Rackhouse (Zo)",
+    "brouwer": "Lervig",
+    "stijl": "Wild Ale - Other",
+    "procent": "6.5% ABV",
+    "special": "",
+    "beschrijving": "A mixed fermentation sour brewed in collaboration with Nevel Wild Ales from the Netherlands. This Norwegian sour was brewed with locally foraged juniper and fermented with Kveik yeast."
+  },
+  {
+    "naam": "Supersonic (Zo)",
+    "brouwer": "Lervig",
+    "stijl": "IPA - Imperial",
+    "procent": "8.5% ABV",
+    "special": "",
+    "beschrijving": "More than Double-Hopped With Citra. Supersonic is a double-hopped, Double India Pale Ale. With the amount of Citra hops used, expect some seriously tropical flavours in this can."
+  },
+  {
+    "naam": "Zepar (Zo)",
+    "brouwer": "Reservoir Dogs",
+    "stijl": "Lambic - Fruit",
+    "procent": "7.5% ABV",
+    "special": "",
+    "beschrijving": "Cooled in a coolship, then spontaneously fermented in old wine barrels. Zepar is a blend of old and young fractions with sour cherries."
+  },
+  {
+    "naam": "Black Hole #50 (Zo)",
+    "brouwer": "Reservoir Dogs",
+    "stijl": "Stout - Imperial",
+    "procent": "10.5% ABV",
+    "special": "",
+    "beschrijving": "What happens when a barrel gets too close to our Batch #50 Stout? It gets sucked in and a Black Hole #50 appears. This edition is especially exquisite."
+  },
+  {
+    "naam": "Hazy Sister (Zo)",
+    "brouwer": "Reservoir Dogs",
+    "stijl": "IPA - New England",
+    "procent": "6% ABV",
+    "special": "",
+    "beschrijving": "Guess what! Sour sister has another sister: Hazy sister. We used the same ingredients as in our sour NEIPA, without the sour part. Hazy Sister is a juicy, fruity..."
+  },
+  {
+    "naam": "Warrior (Zo)",
+    "brouwer": "Reservoir Dogs",
+    "stijl": "Pale Ale - American",
+    "procent": "5.6% ABV",
+    "special": "",
+    "beschrijving": "Here comes the Apocalypse. Its first rider is the Warrior. It is best to just surrender. This is a New World warrior, a true American pale ale. Dry, fruity, gently bitter..."
+  },
+  {
+    "naam": "Black Naughty Russian Pudding (Zo)",
+    "brouwer": "Vleesmeester",
+    "stijl": "Stout - Imperial",
+    "procent": "9% ABV",
+    "special": "",
+    "beschrijving": "Collaboration brew with Vleesmeester Brewery. We brewed a batch of Black Pudding and a batch of Naughty Russian and mixed it together in a fermentation tank. Lagered with vanilla beans,..."
+  },
+  {
+    "naam": "Verzuurde Ambtenaar (Zo)",
+    "brouwer": "Vleesmeester",
+    "stijl": "Sour - Flanders Oud Bruin",
+    "procent": "8% ABV",
+    "special": "",
+    "beschrijving": "75% Bowmore & 25% rode wijn"
+  },
+  {
+    "naam": "Bruismelk (Zo)",
+    "brouwer": "Vleesmeester",
+    "stijl": "IPA - American",
+    "procent": "6.5% ABV",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Zieke Geest (Zo)",
+    "brouwer": "Vleesmeester",
+    "stijl": "Belgian Tripel",
+    "procent": "8% ABV",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Murder Virgin 2023 Spring Edition (Zo)",
+    "brouwer": "Crow Mountain",
+    "stijl": "Stout - Imperial",
+    "procent": "10.1% ABV",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Tribute Tripel (Zo)",
+    "brouwer": "Crow Mountain",
+    "stijl": "Belgian Tripel",
+    "procent": "9.1% ABV",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Eruption (Zo)",
+    "brouwer": "Crow Mountain",
+    "stijl": "IPA - New England",
+    "procent": "7.1% ABV",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Wilma's Rainbow (Zo)",
+    "brouwer": "Crow Mountain",
+    "stijl": "Wheat Beer - Witbier",
+    "procent": "5.1% ABV",
+    "special": "",
+    "beschrijving": "Wacky & Hoppy Belgian Witbier."
+  },
+  {
+    "naam": "30 Moorse Martelaren (Zo)",
+    "brouwer": "De Hophemel",
+    "stijl": "IPA - Imperial",
+    "procent": "7.5% ABV",
+    "special": "",
+    "beschrijving": "Double IPA van 7,5% met een melkerige body door de voluptueuze hoeveelheden boekweit en haver in de moutstorting. Nadien keihard getrashd met Citra, Idaho 7 cryo, Azacca cryo, Talus, en..."
+  },
+  {
+    "naam": "Hiëronymus West Coast IPA (Zo)",
+    "brouwer": "De Hophemel",
+    "stijl": "IPA - American",
+    "procent": "6.5% ABV",
+    "special": "",
+    "beschrijving": "It was time to brew again a West Coast IPA, for bitterness-lovers. This one contains Magnum, Citra, Centennial, Amarillo and Cascade hops..."
+  },
+  {
+    "naam": "Ada Raspberry Basilicum Saison (Zo)",
+    "brouwer": "De Hophemel",
+    "stijl": "Farmhouse Ale - Saison",
+    "procent": "5.5% ABV",
+    "special": "",
+    "beschrijving": "With the name of the first granddaughter of brewer Geert, this beer stands for new life and love !"
+  },
+  {
+    "naam": "Modestus Kveik Session IPA (Zo)",
+    "brouwer": "De Hophemel",
+    "stijl": "IPA - Session",
+    "procent": "4.8% ABV",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Gloed (Batch #7 - 2023) (Zo)",
+    "brouwer": "Nevel",
+    "stijl": "Wild Ale - Other",
+    "procent": "6.2% ABV",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Misthoorn (Zo)",
+    "brouwer": "Nevel",
+    "stijl": "Wild Ale - Other",
+    "procent": "5.8% ABV",
+    "special": "",
+    "beschrijving": "Misthoorn navigeert van een gezonde bodem tot een duurzaam bier, gebrouwen met lokale ingrediënten. Het graan is afkomstig van het Brouwbos Sellink in de Achterhoek."
+  },
+  {
+    "naam": "Hard Pour (Zo)",
+    "brouwer": "VandeStreek",
+    "stijl": "Non-Alcoholic Beer - Porter",
+    "procent": "0.5% ABV",
+    "special": "Non-Alcoholic Beer",
+    "beschrijving": "Get pumped with this non alcoholic coffee nitro stout! Make sure to pour this one hard to get the creamy nitrogen foam mustache we all love."
+  },
+  {
+    "naam": "Fun House Non Alcoholic NEIPA (Zo)",
+    "brouwer": "VandeStreek",
+    "stijl": "Non-Alcoholic Beer - IPA",
+    "procent": "0.5% ABV",
+    "special": "Non-Alcoholic Beer",
+    "beschrijving": "A can full of flavour and fun! Fun House is a fruity and tastefull non alcoholic New England IPA for everybody that loves to have fun."
+  },
+  {
+    "naam": "Playground Non Alcoholic IPA (Zo)",
+    "brouwer": "VandeStreek",
+    "stijl": "Non-Alcoholic Beer - IPA",
+    "procent": "0.5% ABV",
+    "special": "Non-Alcoholic Beer",
+    "beschrijving": "The first Dutch non alcoholic IPA. This non alcoholic IPA packs all the punch you expect from an IPA. However, you can still get behind the wheel after this one..."
+  },
+  {
+    "naam": "Barrel Collab Series - Triple Black IPA (Zo)",
+    "brouwer": "VandeStreek",
+    "stijl": "IPA - Imperial",
+    "procent": "12% ABV",
+    "special": "",
+    "beschrijving": "This crazy triple black IPA that we brewed together with Bronckhorster Brewing was already bitter and hoppy before it went into the cognac barrels, but we dryhopped it again."
+  },
+  {
+    "naam": "Let's Go Nitro (Zo)",
+    "brouwer": "VandeStreek",
+    "stijl": "IPA - Red",
+    "procent": "5% ABV",
+    "special": "",
+    "beschrijving": "Een prachtige combinatie tussen een Red Ale en een West Coast IPA vol met Amerikaanse hoppen en gesatureerd met stikstof!"
+  },
+  {
+    "naam": "Hazy Weekend (Zo)",
+    "brouwer": "VandeStreek",
+    "stijl": "IPA - New England",
+    "procent": "6.6% ABV",
+    "special": "",
+    "beschrijving": "We brew Hazy Weekend only on mondays when we're still a bit hazy from last weekend. Every batch is dryhopped with different kind of hops."
+  },
+  {
+    "naam": "Broeders (Zo)",
+    "brouwer": "VandeStreek",
+    "stijl": "Blonde",
+    "procent": "6% ABV",
+    "special": "",
+    "beschrijving": "Broeders is a refreshing blonde beer with character from malted wheat and german hops. Broeders is best enjoyed with Broeders (mates/ brothers) at any time."
+  },
+  {
+    "naam": "Hypnotik (Zo)",
+    "brouwer": "Gekko",
+    "stijl": "IPA - New England",
+    "procent": "7.3% ABV",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Good Day To You, Sir! (Zo)",
+    "brouwer": "Gekko",
+    "stijl": "Stout - Imperial",
+    "procent": "9.5% ABV",
+    "special": "",
+    "beschrijving": "This beer has a thick body with a complex structure with a delicious lingering roastiness alongside a balanced sweet finish."
+  },
+  {
+    "naam": "7 Poetes 2.0 (Zo)",
+    "brouwer": "Gekko",
+    "stijl": "IPA - Rye",
+    "procent": "6% ABV",
+    "special": "",
+    "beschrijving": "This beast of a NEIPA must be drunk FRESH! Brewed with rye, giving it a delicate bitter touch and a big dose of dry New Zealand hops for the exotic fruit..."
+  },
+  {
+    "naam": "A Story of Ghosts (Zo)",
+    "brouwer": "Gekko",
+    "stijl": "IPA - New England",
+    "procent": "6.7% ABV",
+    "special": "",
+    "beschrijving": "Juicy Neipa layered with 3 aromatic hops. Nelson throughout the hot side and dry-hopped with limey Ekuanot followed by big stone fruit aromas from HBC 630."
+  },
+  {
+    "naam": "Just Roll (Zo)",
+    "brouwer": "Tipsy Tribe",
+    "stijl": "Porter - Other",
+    "procent": "5% ABV",
+    "special": "",
+    "beschrijving": "Just Roll is a rye heavy refreshing porter made with a blend of roasted barley and rye combined with a light dosing of our own house made distilled clementines, ..."
+  },
+  {
+    "naam": "Ümlaüts Ünleashed (Zo)",
+    "brouwer": "Tipsy Tribe",
+    "stijl": "Kölsch",
+    "procent": "5.5% ABV",
+    "special": "",
+    "beschrijving": "Light in color, body and soul, this Kölsch is a fine embodiment of the style, producing a crisp and slightly dry beer with a very easy malt character."
+  },
+  {
+    "naam": "Bodacious (Zo)",
+    "brouwer": "Tipsy Tribe",
+    "stijl": "Sour - Berliner Weisse",
+    "procent": "4% ABV",
+    "special": "",
+    "beschrijving": "A delicately dry-hopped Berliner Weisse style beer with the added badassery of distilled bio lemon and lime zests."
+  },
+  {
+    "naam": "Achel Gallant - Jubileum (Zo)",
+    "brouwer": "Achelse Kluis",
+    "stijl": "Belgian Strong Golden Ale",
+    "procent": "9.5% ABV",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Achel Superior Dark (Zo)",
+    "brouwer": "Achelse Kluis",
+    "stijl": "Belgian Quadrupel",
+    "procent": "9.5% ABV",
+    "special": "",
+    "beschrijving": "Formerly known as Achel Extra Bruin (De 3 Wijzen)."
+  },
+  {
+    "naam": "Achel Superior Blond (Zo)",
+    "brouwer": "Achelse Kluis",
+    "stijl": "Belgian Strong Golden Ale",
+    "procent": "9.5% ABV",
+    "special": "",
+    "beschrijving": "Formerly known as Achel Blond Extra."
+  },
+  {
+    "naam": "Achel Tripel (Zo)",
+    "brouwer": "Achelse Kluis",
+    "stijl": "Belgian Tripel",
+    "procent": "8% ABV",
+    "special": "",
+    "beschrijving": "Formerly known as Achel 8° Blond. A pale, strong, fruity, hoppy Trappist ale from one of Belgium’s six official abbey breweries."
+  },
+  {
+    "naam": "Mongozo Banana (Zo)",
+    "brouwer": "Huyghe",
+    "stijl": "Fruit Beer",
+    "procent": "3.6% ABV",
+    "special": "",
+    "beschrijving": "Fresh, sweet and fruity banana flavour with a hint of beer in the aftertaste."
+  },
+  {
+    "naam": "Mongozo Coconut (Zo)",
+    "brouwer": "Huyghe",
+    "stijl": "Fruit Beer",
+    "procent": "3.6% ABV",
+    "special": "",
+    "beschrijving": "An exotic beer with the refreshing taste of coconut. Mongozo Buckwheat White forms the basis for this beer. A beer that is perfect for pairing with exotic dishes."
+  },
+  {
+    "naam": "Delirium Red (Zo)",
+    "brouwer": "Huyghe",
+    "stijl": "Fruit Beer",
+    "procent": "8% ABV",
+    "special": "",
+    "beschrijving": "Colour and sight: Deep dark red colour, with a light pink, compact and lacing head. Scent: Soft fruity aroma, with hints of almond and mildly sour cherries. Flavour: Sweet and fruity."
+  },
+  {
+    "naam": "Delirium Black Barrel Aged (Zo)",
+    "brouwer": "Huyghe",
+    "stijl": "Belgian Strong Dark Ale",
+    "procent": "11.5% ABV",
+    "special": "",
+    "beschrijving": "Delirium Black is a Belgian Strong Dark Ale. It's a mix of Delirium Nocturnum & Delirium Christmas, which are aged for 9 months in Oak Buffalo Trace Bourbon Barrels."
+  },
+  {
+    "naam": "Delirium Tremens (Zo)",
+    "brouwer": "Huyghe",
+    "stijl": "Belgian Strong Golden Ale",
+    "procent": "8.5% ABV",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Floris Cactus (Zo)",
+    "brouwer": "Huyghe",
+    "stijl": "Fruit Beer",
+    "procent": "4.2% ABV",
+    "special": "",
+    "beschrijving": "Green colour, slightly cloudy because of the wheat beer. Dense, white head. We detect green lime and tequila. Very fresh mouthfeel, coming from the tequila."
+  },
+  {
+    "naam": "KlevereTien Irish Whiskey Infused (Zo)",
+    "brouwer": "Het Nest",
+    "stijl": "Belgian Strong Dark Ale",
+    "procent": "10% ABV",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "SchuppenBoer Grand Cru (Zo)",
+    "brouwer": "Het Nest",
+    "stijl": "Belgian Tripel",
+    "procent": "10% ABV",
+    "special": "",
+    "beschrijving": "The stronger 'Grand Cru' version of the Schuppenboer / Jack of Spades. 20,5°Plato & 40 EBU"
+  },
+  {
+    "naam": "SchuppenBoer Tripel (Zo)",
+    "brouwer": "Het Nest",
+    "stijl": "Belgian Tripel",
+    "procent": "8% ABV",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "SchuppenBoer Summer (Zo)",
+    "brouwer": "Het Nest",
+    "stijl": "Belgian Blonde",
+    "procent": "6% ABV",
+    "special": "",
+    "beschrijving": "Summer edition of the Schuppenboer tripel dryhopped with Nelson Sauvin and Premiant."
+  },
+  {
+    "naam": "Baron (Zo)",
+    "brouwer": "Batteliek by Het Anker",
+    "stijl": "Pilsner - Other",
+    "procent": "5.2% ABV",
+    "special": "",
+    "beschrijving": "Zoals het een baron betaamt, getuigt deze doordrinker van een onberispelijke smaak. Een puur pilsbier, ongefilterd en ongezouten, zoals een echte baron in het leven staat."
+  },
+  {
+    "naam": "Gouden Carolus Whisky Infused (Zo)",
+    "brouwer": "Batteliek by Het Anker",
+    "stijl": "Belgian Strong Dark Ale ⁄",
+    "procent": "11.7% ABV",
+    "special": "",
+    "beschrijving": "Gouden Carolus Cuvée van de Keizer Imperial Dark was enriched by an infusion of Gouden Carolus Single Malt whisky."
+  },
+  {
+    "naam": "Big Bang Barrelique (Zo)",
+    "brouwer": "Batteliek by Het Anker",
+    "stijl": "Stout - Coffee",
+    "procent": "11% ABV",
+    "special": "",
+    "beschrijving": "Oerknal aged on whisky barrels from Het Anker."
+  },
+  {
+    "naam": "Baobab (Zo)",
+    "brouwer": "Batteliek by Het Anker",
+    "stijl": "Belgian Tripel",
+    "procent": "8.8% ABV",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Battelaar (Zo)",
+    "brouwer": "Batteliek by Het Anker",
+    "stijl": "Blonde",
+    "procent": "6.1% ABV",
+    "special": "",
+    "beschrijving": "Deze blonde Battelaar is een trouwe metgezel bij al jouw avonturen. Door de klassieke Duitse Tett nanger-hop smaakt dit bier lichtjes gekruid, volmondig en vooral heerlijk fris."
+  },
+  {
+    "naam": "Koolputter Chef-Prion (2023) Saison",
+    "brouwer": "Bèrringse Bier Brouwers",
+    "stijl": "Farmhouse Ale - Saison",
+    "procent": "6.5% ABV",
+    "special": "",
+    "beschrijving": "De Bèrringse Bier Brouwers zitten ondertussen aan hun 6de editie van de \"CHEF-PRION\". De versie van 2023 is een blonde Saison van 6.5% en werd gebrouwen met gerstemout, speltmout, 2 hopsoorten..."
+  },
+  {
+    "naam": "Koolputter Zwart",
+    "brouwer": "Bèrringse Bier Brouwers",
+    "stijl": "Belgian Quadrupel",
+    "procent": "10% ABV",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Koolputter Goud",
+    "brouwer": "Bèrringse Bier Brouwers",
+    "stijl": "Belgian Tripel",
+    "procent": "9.1% ABV",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Gooische Grape Ale IX NOIR (Cabaret NOIR) (Zo)",
+    "brouwer": "Gooische bierbrouwerij",
+    "stijl": "Grape Ale - Other",
+    "procent": "6.5% ABV",
+    "special": "",
+    "beschrijving": "De eerste Grape Ale gebrouwen met geroosterde en zwarte mouten. En de Cabaret Noir druif van het Betuws Wijndomein. Koffie, chocola en kersen."
+  },
+  {
+    "naam": "Beer De Garde Ambrée Impériale (Zo)",
+    "brouwer": "Gooische bierbrouwerij",
+    "stijl": "Farmhouse Ale - Bière de Garde",
+    "procent": "9.9% ABV",
+    "special": "",
+    "beschrijving": "Amberkleurige Bière de Garde, Impérial - dus extra zwaar uitgevoerd. Bekroond met Zilveren medaille Brussels Beer Challenge. Verwarmend, alcoholisch maar door vergisting met saisongist niet plakkend zoet."
+  },
+  {
+    "naam": "Gooisch Zwart (Zo)",
+    "brouwer": "Gooische bierbrouwerij",
+    "stijl": "Schwarzbier ⁄ 5% ABV",
+    "procent": "5% ABV",
+    "special": "",
+    "beschrijving": "Een echt, ONDERGISTEND Schwarzbier (niet te verwarren met een Porter of Stout ;)) ondergistend en daardoor mooi doordrinkbaar."
+  },
+  {
+    "naam": "Gooisch Goud (Zo)",
+    "brouwer": "Gooische bierbrouwerij",
+    "stijl": "Pilsner - Other",
+    "procent": "5% ABV",
+    "special": "",
+    "beschrijving": "Mooie Urtyp Pilsener, geïnspireerd op de traditionele Tsjechische pils. Ongefilterd, ongepasteuriseerd, fris gehopt."
+  },
+  {
+    "naam": "Writer's Blanc (Zo)",
+    "brouwer": "Trial & Ale",
+    "stijl": "Sour - Other",
+    "procent": "6% ABV",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Bob (Zo)",
+    "brouwer": "Trial & Ale",
+    "stijl": "Wild Ale - Other",
+    "procent": "5.8% ABV",
+    "special": "",
+    "beschrijving": "Robert got canned, and we are pleased to introduce this blend as its less formal, more fun, little brother Bob."
+  },
+  {
+    "naam": "Separated To A Degree (Winter 2021/2022) (Zo)",
+    "brouwer": "Trial & Ale",
+    "stijl": "Sour - Other",
+    "procent": "7% ABV",
+    "special": "",
+    "beschrijving": "Separated To A Degree – Winter ‘21/’22 is the fourth turn of our award winning mixed fermentation blend. We’ve blended this release with the same elaborate mixture of wild yeast..."
+  },
+  {
+    "naam": "A Cordial Invitation (Zo)",
+    "brouwer": "Trial & Ale",
+    "stijl": "Sour - Fruited",
+    "procent": "6.9% ABV",
+    "special": "",
+    "beschrijving": "Our current blend focuses on the Montmorency Cherry. The pressure we placed upon ourselves with using cherries stems."
+  },
+  {
+    "naam": "Sand Diver 0.3 (Zo)",
+    "brouwer": "Kromme Haring",
+    "stijl": "Non-Alcoholic Beer - Other",
+    "procent": "0.3% ABV",
+    "special": "Non-Alcoholic Beer",
+    "beschrijving": "De Kromme Haring proudly presents our first non-alcoholic beer! We carefully re-designed the original Sand Diver Isotonic Ale, retaining its unique Haring vibe while (almost completely) eliminating the alcohol."
+  },
+  {
+    "naam": "Rhubarb Gurnard (Zo)",
+    "brouwer": "Kromme Haring",
+    "stijl": "Wild Ale - Other",
+    "procent": "5.1% ABV",
+    "special": "",
+    "beschrijving": "Our first mixed fermentation beer brewed in the Brewpub, Rhubarb Gurnard is brewed with a touch of Mosaic, fermented with our house blend and lagered with Rhubarb juice."
+  },
+  {
+    "naam": "The Otter (Idaho 7) (Zo)",
+    "brouwer": "Kromme Haring",
+    "stijl": "Pale Ale - Other",
+    "procent": "4.8% ABV",
+    "special": "",
+    "beschrijving": "The Otter is a pale ale Inspired by both American and British craft traditions. It combines exciting flavours with maximum pintability."
+  },
+  {
+    "naam": "Citizen Fish (Zo)",
+    "brouwer": "Kromme Haring",
+    "stijl": "Farmhouse Ale - Saison",
+    "procent": "3.5% ABV",
+    "special": "",
+    "beschrijving": "Funky Saison."
+  },
+  {
+    "naam": "Warmouth V11 (Zo)",
+    "brouwer": "Kromme Haring",
+    "stijl": "IPA - New England",
+    "procent": "6.3% ABV",
+    "special": "",
+    "beschrijving": "We call Warmouth a bootleg NEIPA, because it uses an obscure yet delicious yeast by Bootleg Biology."
+  }
+]
