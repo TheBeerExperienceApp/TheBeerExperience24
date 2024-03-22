@@ -8,9 +8,11 @@
           informatie of wens je het te kopen, neem dan contact op met :
         </p>
         <p class="text-overline">
-          Laila Abdelmalek: 0496 04 09 44 • Email: laila4live@telenet.be
-          <br>
-          Raf Nulens: 0473 98 51 00 • Email: raf.nulens@skynet.be
+          <span class="font-weight-bold">Laila Abdelmalek:</span> 0496 04 09 44
+          • Email: laila4live@telenet.be
+          <br />
+          <span class="font-weight-bold">Raf Nulens:</span> 0473 98 51 00 •
+          Email: raf.nulens@skynet.be
         </p>
       </v-col>
     </v-row>

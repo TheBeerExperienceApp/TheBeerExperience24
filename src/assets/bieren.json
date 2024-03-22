@@ -88,6 +88,14 @@
     "beschrijving": "This Pale Ale is our Belgian-Japanese connexion. We dry-hopped it with 2 different hops: Belgian harvested Chinook and the famous Japanese Sorachi Ace. We also used Chit malt."
   },
   {
+    "naam": "Squizz",
+    "brouwer": "Fugu Brewing Co",
+    "stijl": "Fruit Beer",
+    "procent": "6% ABV",
+    "special": "",
+    "beschrijving": "Pear, lychee, apple and yuzu have been squeezed. Squizz was brewed. Fugu is happy."
+  },
+  {
     "naam": "Space is the place (Za)",
     "brouwer": "100 Watt & Van Moll",
     "stijl": "Sour - Other",
@@ -248,12 +256,12 @@
     "beschrijving": "Tasty Juice is a double hopped India Pale Ale. It holds a massive tropical & dank flavours from the double load of Citra hops"
   },
   {
-    "naam": "Silent Exchange By Rackhouse (Za)",
+    "naam": "Paragon 2022",
     "brouwer": "Lervig",
-    "stijl": "Stout - Imperial",
-    "procent": "15.8% ABV",
+    "stijl": "Barley wine",
+    "procent": "14.4% ABV",
     "special": "",
-    "beschrijving": "Another collaboration with the great Põhjala tells the continued story of our shared history in craft brewing"
+    "beschrijving": "Paragon 2022 brings together bourbon barrel-aged barley wine and masterfully expresses notes of dried figs, raisins, and vanilla, complemented by caramel, toffee, and chocolate notes from the malt. The result is a symphony of flavors that envelops your palate, disguising the alcohol content with finesse. It’s a testament to our dedication to the old style and the artistry of brewing, encapsulated in every bottle."
   },
   {
     "naam": "Supersonic",
@@ -1008,7 +1016,7 @@
     "beschrijving": "Is een bier op basis van onze Vicaris Tripel, verrijkt met een infusie van rum en extra eikensnippers. Dit resulteert in een mooi gebalanceerd, volmondig en krachtig blond bier"
   },
   {
-    "naam": "Patience For Eylenbosch -Belgian Pale Ale (Pale Ale Speciale) (Zo)",
+    "naam": "Patience For Eylenbosch - Belgian Pale Ale (Pale Ale Speciale) (Zo)",
     "brouwer": "Eylenbosch",
     "stijl": "Pale Ale - Belgian",
     "procent": "6% ABV",
@@ -1036,6 +1044,14 @@
     "brouwer": "Eylenbosch",
     "stijl": "Farmhouse Ale - Saison",
     "procent": "5.5% ABV",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Whiskey Festival Gueuze",
+    "brouwer": "Eylenbosch",
+    "stijl": "Gueuze",
+    "procent": "8% ABV",
     "special": "",
     "beschrijving": ""
   },
@@ -1390,5 +1406,661 @@
     "procent": "6.3% ABV",
     "special": "",
     "beschrijving": "We call Warmouth a bootleg NEIPA, because it uses an obscure yet delicious yeast by Bootleg Biology."
+  },
+  {
+    "naam": "Baby Dragon Fly (Za)",
+    "brouwer": "Les Intenables",
+    "stijl": "IPA - Imperial",
+    "procent": "8% ABV",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Muffin More (Za)",
+    "brouwer": "Les Intenables",
+    "stijl": "Sour - Smoothie / Pastry",
+    "procent": "6.7% ABV",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Roses (Za)",
+    "brouwer": "Les Intenables",
+    "stijl": "Barley Wine aged 6 months",
+    "procent": "12.5% ABV",
+    "special": "",
+    "beschrijving": "aged 6 months"
+  },
+  {
+    "naam": "See you next week (Za)",
+    "brouwer": "Les Intenables",
+    "stijl": "IPA - Imperial / Double",
+    "procent": "8% ABV",
+    "special": "",
+    "beschrijving": "Double west coast collab Basqueland"
+  },
+  {
+    "naam": "Hop Miners",
+    "brouwer": "Les Intenables",
+    "stijl": "IPA - Imperial / Double",
+    "procent": "8% ABV",
+    "special": "",
+    "beschrijving": "Specially brewed for The Beer Experience festival (Heusden-Zolder, Belgium). Grist: Extra Pale Ale, Munich, wheat, oat and wheat flakes. Hops: Citra Cryo, Citra, Chinook. Yeast: East Coast Ale."
+  },
+  {
+    "naam": "Muffin Cerise (Zo)",
+    "brouwer": "Les Intenables",
+    "stijl": "Sour - Smoothie / Pastry",
+    "procent": "6.7% ABV",
+    "special": "",
+    "beschrijving": "Pastry Sour avec 140g/L de Cerises"
+  },
+  {
+    "naam": "Luminosa Island (Zo)",
+    "brouwer": "Les Intenables",
+    "stijl": "Lager - American",
+    "procent": "6.7% ABV",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Mega Trip (Zo)",
+    "brouwer": "Les Intenables",
+    "stijl": "Tripel",
+    "procent": "7.5% ABV",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Nordic Punch (Zo)",
+    "brouwer": "Les Intenables",
+    "stijl": "IPA - Farmhouse",
+    "procent": "6.5% ABV",
+    "special": "",
+    "beschrijving": "Un twist d'agrumes sur fond de saveurs tropicales. Le tout orchestré par une levure Kveik et son côté sec qui claque comme une piste de danse scandinave."
+  },
+  {
+    "naam": "BASTARDATOR",
+    "brouwer": "Sudden Death",
+    "stijl": "doppelbock",
+    "procent": "10.2% ABV",
+    "special": "",
+    "beschrijving": "Rich, malty, and complex, we taste a medley of chocolate, dark fruit, and deep melanoidins."
+  },
+  {
+    "naam": "Basketcase - ORANGE and VANILLA",
+    "brouwer": "Sudden Death",
+    "stijl": "fruited sour",
+    "procent": "7.5% ABV",
+    "special": "",
+    "beschrijving": "Jam-packed with over 400 g. / L of orange, lemon, lime, and ginger juice, purée, and concentrate, this heavily fruited imperial sour is accentuated with vanilla, melding sweet, tart, zingy flavour with a surprisingly creamy texture."
+  },
+  {
+    "naam": "The Anti Weather Balloon League",
+    "brouwer": "Sudden Death",
+    "stijl": "IPA - New England / Hazy",
+    "procent": "6.5% ABV",
+    "special": "",
+    "beschrijving": "We taste watermelon candy, blueberry, and a hint of mint"
+  },
+  {
+    "naam": "Green Flash of Hell",
+    "brouwer": "Sudden Death",
+    "stijl": "TIPA",
+    "procent": "10.5% ABV",
+    "special": "",
+    "beschrijving": "Triple dry hopped with Amarillo, Cascade, and Columbus. Finished with NZ Superdelic."
+  },
+  {
+    "naam": "Jungle King",
+    "brouwer": "Sudden Death",
+    "stijl": "DOUBLE PASTRY STOUT",
+    "procent": "8% ABV",
+    "special": "",
+    "beschrijving": "The Jungle King is our banana split-style Imperial Stout brewed with oats, wheat, dark brown sugar, and conditioned on banana, chocolate, and vanilla soft-serve."
+  },
+  {
+    "naam": "Rollermania",
+    "brouwer": "Sudden Death",
+    "stijl": "NEIPA",
+    "procent": "6.3% ABV",
+    "special": "",
+    "beschrijving": "Rollermania was dry hopped with Mosaic, Citra, Simcoe, and Cascade."
+  },
+  {
+    "naam": "Morillon 2023",
+    "brouwer": "Cross-Over Blending",
+    "stijl": "wilde ale",
+    "procent": "6% ABV",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Barbarian Lands 2023",
+    "brouwer": "Cross-Over Blending",
+    "stijl": "golden ale",
+    "procent": "6% ABV",
+    "special": "",
+    "beschrijving": "Golden ale brewed with 60% malted barley and 40% raw wheat. Spontaneously fermented and aged in neutral french oak barrels for 14 months."
+  },
+  {
+    "naam": "Bramble, Thorn & Briar 2023",
+    "brouwer": "Cross-Over Blending",
+    "stijl": "wilde ale",
+    "procent": "5.5% ABV",
+    "special": "",
+    "beschrijving": "Our base golden ale (60%/70% malted barley, 40%/30% raw wheat) spontaneously fermented and aged for 8 months in neutral french oak barrels."
+  },
+  {
+    "naam": "Honey Isle",
+    "brouwer": "Cross-Over Blending",
+    "stijl": "Wild Ale - Other",
+    "procent": "5.5% ABV",
+    "special": "",
+    "beschrijving": "A blend of 20 month and 30 month old golden ales. Spontaneously fermented and aged in neutral French oak barrels. Refermented on Honeyberries from Dundee Scotland. Bottle conditioned, unfiltered and unpasteurised."
+  },
+  {
+    "naam": "Herckenrode Cister",
+    "brouwer": "Cornelissen",
+    "stijl": "belgian blonde",
+    "procent": "6.5% ABV",
+    "special": "",
+    "beschrijving": "Cister is an all-natural beer, made using only malted barley, Saaz hops, water, yeast and herbs grown on the grounds of the Herkenrode abbey itself."
+  },
+  {
+    "naam": "Herckenrode Vesper",
+    "brouwer": "Cornelissen",
+    "stijl": "tripel",
+    "procent": "9% ABV",
+    "special": "",
+    "beschrijving": "With a 9% abv, a nice bitterness and a lightly cognac aftertaste. The beer is brewed using only 100% Saaz-Saaz hops, malted barley, water, yeast and herbs grown at the Herkenrode Abbey itself."
+  },
+  {
+    "naam": "Ops-Ale",
+    "brouwer": "Cornelissen",
+    "stijl": "lager",
+    "procent": "5.5% ABV",
+    "special": "",
+    "beschrijving": "This amazing lager beer gives a refreshing full malt flavor, lightly bitter, with a sunny golden yellow colour and a solid white foam head."
+  },
+  {
+    "naam": "Limburgse witte",
+    "brouwer": "Cornelissen",
+    "stijl": "witbier",
+    "procent": "5% ABV",
+    "special": "",
+    "beschrijving": "Limburgse Witte has a light, fresh taste of citrus and a spicy touch of coriander, which combine to make it an outstanding thirst-quencher."
+  },
+  {
+    "naam": "Dark I",
+    "brouwer": "BMOD",
+    "stijl": "Stout - Russian Imperial",
+    "procent": "15.5% ABV",
+    "special": "",
+    "beschrijving": "A massive imperial stout, inspired by the mighty Darkspace. A brew that is way out of this world."
+  },
+  {
+    "naam": "House of the Holy 2020",
+    "brouwer": "BMOD",
+    "stijl": "Historical Beer - Gruit / Ancient Herbed Ale",
+    "procent": "7% ABV",
+    "special": "",
+    "beschrijving": "A sour gruit ale with juniperberries and pinetips, brewed in honour of the sommersolstice celebration on the Holy Mountain."
+  },
+  {
+    "naam": "Im Wald",
+    "brouwer": "BMOD",
+    "stijl": "Barleywine - Other",
+    "procent": "9.1% ABV",
+    "special": "",
+    "beschrijving": "A gruit barleywine inspired by a not yet released album of Paysage d'Hiver. A mixture of hops, pine-tips, heatherflowers, coriander, juniper berries and cloves was used to uplift this sweet barleywine beyond what you have experienced before. What this brew lacks in alcohol, is compensated by the solid body."
+  },
+  {
+    "naam": "BLZR",
+    "brouwer": "BMOD",
+    "stijl": "Sour - Flanders Oud Bruin",
+    "procent": "6.8% ABV",
+    "special": "",
+    "beschrijving": "Brewed in conspiracy with Bölzer. 2nd batch"
+  },
+  {
+    "naam": "The Heralder (2020)",
+    "brouwer": "BMOD",
+    "stijl": "Mead - Braggot",
+    "procent": "13% ABV",
+    "special": "",
+    "beschrijving": "Low-alcohol version of the original Heralder. Only 13%, so expect a light, easy-drinking herbal honeybeer, to consume while raiding an English village under a nice spring sun."
+  },
+  {
+    "naam": "Enemy of heaven (2021)",
+    "brouwer": "BMOD",
+    "stijl": "Barleywine - Other",
+    "procent": "10.7% ABV",
+    "special": "",
+    "beschrijving": "A Kveik barleywine/ strong dark ale, brewed with smoked malts. This one is brewed in honour of Lamia Vox, a fantastic dark ambient artist."
+  },
+  {
+    "naam": "Goddess",
+    "brouwer": "BMOD",
+    "stijl": "Mead - Braggot",
+    "procent": "9.6% ABV",
+    "special": "",
+    "beschrijving": "A gruit braggot, made with hawthorn, sweet gale, coriander, juniper, pinetips and meadowsweet. Final gravity 1002, so pretty dry, but with a decent boost of raw honey."
+  },
+  {
+    "naam": "BLZR - Cranberries",
+    "brouwer": "BMOD",
+    "stijl": "Sour - Flanders Oud Bruin",
+    "procent": "7.7% ABV",
+    "special": "",
+    "beschrijving": "In conspiracy with Bölzer : a flemish oud bruin, macerated on cranberries. Fermented with a mixture of lacto, brett and other yeasts over a period of 1,5 years"
+  },
+  {
+    "naam": "Different as open",
+    "brouwer": "Bakkum",
+    "stijl": "Different as open",
+    "procent": "",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "BF Marsala Wild Beer Blend (Za)",
+    "brouwer": "Bakkum",
+    "stijl": "Wild Ale - Other",
+    "procent": "7% ABV",
+    "special": "",
+    "beschrijving": "Spontaneous fermented beer blend with Cantine Vinci Marsala Brown Wine. Young beer for bottle Fermentation. Bottled on 10 March 2023."
+  },
+  {
+    "naam": "Sonic Reducer (Za)",
+    "brouwer": "Bakkum",
+    "stijl": "Wild Ale - Other",
+    "procent": "6% ABV",
+    "special": "",
+    "beschrijving": "Spontaneous fermented BF Beer with 1 gram Safran, on 13 liter beer, soaked in it for 3 days. 2005 Dow’s Nirvana Port added for natural bottle sugar. Bottled on 3 nov 23."
+  },
+  {
+    "naam": "Stinky Wine Blend No.2 (Za)",
+    "brouwer": "Bakkum",
+    "stijl": "Wild Ale - Other",
+    "procent": "8% ABV",
+    "special": "",
+    "beschrijving": "Spontaneous fermented beer blend with about 25% oxidized 1997 Domaine Belleville - Rully (La Pucelle 1st cru, Les Cloux 1st cru & Les Chauchoux) Wine. Young beer for bottle Fermentation. Bottled on 10 March 2023."
+  },
+  {
+    "naam": "If This Is Going To Be That Kind Of Party… (Za)",
+    "brouwer": "Bakkum",
+    "stijl": "Fruit Beer",
+    "procent": "8% ABV",
+    "special": "",
+    "beschrijving": "Spontaneous fermented beer blend with 1 kg/ll carbonic fermented grapes of which 50 % overripe boskoop glory and the other 50% different wine grapes Cabernet Sauvignon, Merlot and others. Bottled on 7 oktober 23 with sweet 1975 Muscat de Frontignan dessert wine (chateau de la Peyrade) for natural sugars for bottle refermentation."
+  },
+  {
+    "naam": "DRY DON (Za)",
+    "brouwer": "Bakkum",
+    "stijl": "Wild Ale - Other",
+    "procent": "6% ABV",
+    "special": "",
+    "beschrijving": "Spontaneous fermented oak aged beer blend with Sandeman Dry Don (med. dry sherry) from somewhere between 1935 & 1950. Bottled on 2 July 2023."
+  },
+  {
+    "naam": "Everything went Bakkum blend 1 or 2 (Za)",
+    "brouwer": "Bakkum",
+    "stijl": "Wild Ale - Other",
+    "procent": "7% ABV",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Sausage Wizard Beach Appreciation Beer",
+    "brouwer": "Bakkum",
+    "stijl": "Fruit Beer",
+    "procent": "6% ABV",
+    "special": "",
+    "beschrijving": "Spontaneous fermented beer with 300 Gr/l fruit, 61% Pink Gooseberry, 19% white-, pink- & red currant & 10% Schaarbeekse krieken all from own garden. Bottled with PX Sherry on 20 Aug 2023."
+  },
+  {
+    "naam": "Ruby Port",
+    "brouwer": "Bakkum",
+    "stijl": "Wild Ale - Other",
+    "procent": "6% ABV",
+    "special": "",
+    "beschrijving": "Spontaneous fermented beer blend bottled on 2 juli 2023 with 1980 Kopke Quinta Lobata Ruby Port Wine and 1980 Quinta da Romaneira Ruby Port Wine for bottle refermentation."
+  },
+  {
+    "naam": "Madeira",
+    "brouwer": "Bakkum",
+    "stijl": "Wild Ale - Other",
+    "procent": "7% ABV",
+    "special": "",
+    "beschrijving": "Spontaneous fermented beer blend with Vat 22 Madeira Brown Wine. Young beer for bottle Fermentation. Bottled on 10 March 2023."
+  },
+  {
+    "naam": "Stinky Wine Blend No.1",
+    "brouwer": "Bakkum",
+    "stijl": "Wild Ale - Other",
+    "procent": "8% ABV",
+    "special": "",
+    "beschrijving": "Spontaneous fermented beer blend with about 25% oxidized 1995 Paul Garaudet Bourgogne (Cote-d’Or) Chardonnay Wine. Young beer and a bit Vin Santo for bottle Fermentation. Bottled on 4 March 2023."
+  },
+  {
+    "naam": "Cascara Cider",
+    "brouwer": "Bakkum",
+    "stijl": "Cider - Graff",
+    "procent": "5% ABV",
+    "special": "",
+    "beschrijving": "Wild beer 10gr/l coffee husks soaked in it for a week bottled with fresh brewed beer hydromel (mead) and moscatel wine for refermentation on 28 Nov 2022."
+  },
+  {
+    "naam": "Hit Parade (Za)",
+    "brouwer": "Butcher's Tears",
+    "stijl": "IPA",
+    "procent": "5% ABV",
+    "special": "",
+    "beschrijving": "This gluten-free Buckwheat IPA combines a traditional Dutch grist of barley, buckwheat and oats, with modern American hop varities Chinook and El Dorado"
+  },
+  {
+    "naam": "KOLENKIT SUICIDE BA (Za)",
+    "brouwer": "Butcher's Tears",
+    "stijl": "IMP DOUBLE STOUT",
+    "procent": "11% ABV",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "LIPREADER 2023 (Za)",
+    "brouwer": "Butcher's Tears",
+    "stijl": "PALE ALE",
+    "procent": "7% ABV",
+    "special": "",
+    "beschrijving": "Smoky Juniper Ale."
+  },
+  {
+    "naam": "ANIMAL SPACE (Za)",
+    "brouwer": "Butcher's Tears",
+    "stijl": "FARMHOUSE ALE",
+    "procent": "5.2% ABV",
+    "special": "",
+    "beschrijving": "WHITE SAISON"
+  },
+  {
+    "naam": "Monsters Soup DB (Za)",
+    "brouwer": "Butcher's Tears",
+    "stijl": "Brown Ale",
+    "procent": "4.5% ABV",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Olasz Rizling",
+    "brouwer": "Bofkont",
+    "stijl": "lambic fruit",
+    "procent": "6% ABV",
+    "special": "",
+    "beschrijving": "With Hungarian olasz Rizling grapes."
+  },
+  {
+    "naam": "Sunshine 2022",
+    "brouwer": "Bofkont",
+    "stijl": "lambic fruit",
+    "procent": "6% ABV",
+    "special": "",
+    "beschrijving": "1, 2 and 3 years old lambic with wild white peaches from Spain."
+  },
+  {
+    "naam": "Smulsmurf 2022",
+    "brouwer": "Bofkont",
+    "stijl": "lambic fruit",
+    "procent": "6% ABV",
+    "special": "",
+    "beschrijving": "1,2 and 3 years old lambic Apricots from Ardeche in France. Blended together with riesling grapes harvest 2020 Mosel (Germany) & Italian muscat grapes 2021 Cinnamon (Ceylon)"
+  },
+  {
+    "naam": "Cannonau",
+    "brouwer": "Boerenerf",
+    "stijl": "Cider - Other Fruit",
+    "procent": "7% ABV",
+    "special": "",
+    "beschrijving": "Blend of cider & wine from Cannonau grapes. The Cannonau di Sardegna is a unique Sardean grape. These organic grapes are grown by our friends from Cantina Pusole in Sardinia."
+  },
+  {
+    "naam": "kweepeer",
+    "brouwer": "Boerenerf",
+    "stijl": "lambiek met kweepeer",
+    "procent": "7% ABV",
+    "special": "",
+    "beschrijving": "Three varieties bio-quince from Pajottenland macerated for 5 months on lambik aged in wooden barrels. During the blending of the 3 barrels, a part of it was selected as pure quince lambiek, another part has been blended with cider: Kweepeerlambiek Cider Oogst 2020."
+  },
+  {
+    "naam": "cuvee heritage",
+    "brouwer": "Boerenerf",
+    "stijl": "gueuze met oude lambieken",
+    "procent": "7% ABV",
+    "special": "",
+    "beschrijving": "This Gueuze is a traditional blend of young and old lambics."
+  },
+  {
+    "naam": "Mu'siek",
+    "brouwer": "Boerenerf",
+    "stijl": "blend tussen kriek en muscat wijn",
+    "procent": "7% ABV",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "30 Moorse Martelaren",
+    "brouwer": "De Hophemel",
+    "stijl": "D NEIPA",
+    "procent": "7.5% ABV",
+    "special": "",
+    "beschrijving": "Double IPA van 7,5% met een melkerige body door de voluptueuze hoeveelheden boekweit en haver in de moutstorting. Nadien keihard getrashd met Citra, Idaho 7 cryo, Azacca cryo, Talus, en Galaxy. Om het bier even geweldig te vergisten als we er hop in dropten kozen we voor de Hornindal kveik gist om de vergisten op gang te knallen."
+  },
+  {
+    "naam": "ADELHEID (Za)",
+    "brouwer": "De Hophemel",
+    "stijl": "Barleywine",
+    "procent": "11.5% ABV",
+    "special": "",
+    "beschrijving": "We Oaked our second version of Adelheid, with oakchips, soaked in Calvados, that was barrel-aged on a Brandy Barrel, from the distillery/brewery Het Aerts Paradijs from Koersel. A nice full alcoholic beer with a touch of apple, oak and spirit."
+  },
+  {
+    "naam": "Porfyrius Limoncello Sour IPA (Za)",
+    "brouwer": "De Hophemel",
+    "stijl": "Sour IPA",
+    "procent": "5.7% ABV",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Joannes Hoppy Pale Ale (Za)",
+    "brouwer": "De Hophemel",
+    "stijl": "Pale Ale - Belgian",
+    "procent": "5.5% ABV",
+    "special": "",
+    "beschrijving": "Lightly hopped pale ale with 100% Belgian hops (Soracchi Ace, Cascade and Magnum). The first beer from our own brewing installation in Hasselt is a complex-free drinkable beer with a nice hoppy bitterness."
+  },
+  {
+    "naam": "Hieronymus (Zo)",
+    "brouwer": "De Hophemel",
+    "stijl": "Westcoast IPA",
+    "procent": "6.5% ABV",
+    "special": "",
+    "beschrijving": "It was time to brew again a West Coast IPA, for bitterness-lovers. This one contains Magnum, Citra, Centennial, Amarillo and Cascade hops."
+  },
+  {
+    "naam": "Ada Rasberry Basilicum Saison (Zo)",
+    "brouwer": "De Hophemel",
+    "stijl": "Farmhouse Ale - Saison",
+    "procent": "5.5% ABV",
+    "special": "",
+    "beschrijving": "With the name of the first granddaughter of brewer Geert, this beer stands for new life and love ! The perfect match between Jordy, Geert's son, and his wife Emma is equal to the perfect marriage between Raspberry and Basilicum !"
+  },
+  {
+    "naam": "Modestus Kveik Saison IPA (Zo)",
+    "brouwer": "De Hophemel",
+    "stijl": "Session IPA",
+    "procent": "4.8% ABV",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Een Groen Blaadje #1",
+    "brouwer": "WOFD",
+    "stijl": "Lambic - Fruit",
+    "procent": "6% ABV",
+    "special": "",
+    "beschrijving": "Blend van Lambieken van 1 jaar en 4 jaar oud met Auxerrois Blanc, Pinot Blanc and Pinot Gris druiven"
+  },
+  {
+    "naam": "Carmens Wasmachine #1",
+    "brouwer": "WOFD",
+    "stijl": "Lambic - Other",
+    "procent": "6% ABV",
+    "special": "",
+    "beschrijving": "Blend van Lambieken van 1 jaar en 4 jaar oud met vlierbloesem"
+  },
+  {
+    "naam": "Dag van de Secretaresse #1",
+    "brouwer": "WOFD",
+    "stijl": "Lambic - Fruit",
+    "procent": "6% ABV",
+    "special": "",
+    "beschrijving": "Blend van Lambieken van 1 jaar en 4 jaar oud met abrikoos en rabarber"
+  },
+  {
+    "naam": "Boem! #1",
+    "brouwer": "WOFD",
+    "stijl": "Lambic - Fruit",
+    "procent": "6% ABV",
+    "special": "",
+    "beschrijving": "Blend van Lambieken van 1 jaar en 4 jaar oud met abrikoos, kruidnagel, en een zweempje rabarber"
+  },
+  {
+    "naam": "Friet met Mayonaise #1",
+    "brouwer": "WOFD",
+    "stijl": "Lambic - Fruit",
+    "procent": "6% ABV",
+    "special": "",
+    "beschrijving": "Blend van Lambieken van 1 jaar en 4 jaar oud met weinberg nectarines"
+  },
+  {
+    "naam": "Fort-Da",
+    "brouwer": "Duron",
+    "stijl": "Lambic - Fruit",
+    "procent": "",
+    "special": "",
+    "beschrijving": "Fort-Da game of Loquat and Apricot in Lambik."
+  },
+  {
+    "naam": "Sinthome",
+    "brouwer": "Duron",
+    "stijl": "Lambic - Gueuze",
+    "procent": "",
+    "special": "",
+    "beschrijving": "Blend of different ‘Lambikken’."
+  },
+  {
+    "naam": "Ambivalence",
+    "brouwer": "Duron",
+    "stijl": "Lambic -  Fruit",
+    "procent": "",
+    "special": "",
+    "beschrijving": "Blend of fresh figs, fresh dates and Lambik."
+  },
+  {
+    "naam": "Vellust Riesling Druiven",
+    "brouwer": "Duron",
+    "stijl": "Lambic - Fruit",
+    "procent": "5% ABV",
+    "special": "",
+    "beschrijving": "Blend of Lambik and Riesling Grapes."
+  },
+  {
+    "naam": "Kriek",
+    "brouwer": "Heidrun",
+    "stijl": "Sour - Fruited",
+    "procent": "6.2% ABV",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Rabarber",
+    "brouwer": "Heidrun",
+    "stijl": "",
+    "procent": "",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Dandelion",
+    "brouwer": "Heidrun",
+    "stijl": "Other",
+    "procent": "6.2% ABV",
+    "special": "",
+    "beschrijving": "Basis bier 35% ongemoute tarwe en 65% gemoute gerst. Spontane vergisting van paardenbloem."
+  },
+  {
+    "naam": "Vlier-Framboos",
+    "brouwer": "Heidrun",
+    "stijl": "Sour - Fruited",
+    "procent": "6.2% ABV",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Petra",
+    "brouwer": "At Tack",
+    "stijl": "Sour - Other",
+    "procent": "5.6% ABV",
+    "special": "",
+    "beschrijving": "Dit blonde spontane gistingsbier van 5.6% is een blend van jong en gerijpt bier met kweeperensap en vroegloons druivensap, één jaar gerijpt op het wijndomein Optimbulles. Dit bier kreeg de naam van een levensgenieter die als een rots in de branding de onstuimige golven trotseert."
+  },
+  {
+    "naam": "AmBassadeur",
+    "brouwer": "At Tack",
+    "stijl": "Tripel",
+    "procent": "8% ABV",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Reburrus",
+    "brouwer": "At Tack",
+    "stijl": "Bière de Champagne / Bière Brut",
+    "procent": "7.8% ABV",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Robert",
+    "brouwer": "At Tack",
+    "stijl": "",
+    "procent": "",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Geen bierlijst beschikbaar",
+    "brouwer": "Donder",
+    "stijl": "",
+    "procent": "",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Geen bierlijst beschikbaar",
+    "brouwer": "De La Sambre",
+    "stijl": "",
+    "procent": "",
+    "special": "",
+    "beschrijving": ""
+  },
+  {
+    "naam": "Geen bierlijst beschikbaar",
+    "brouwer": "Sans Tete",
+    "stijl": "",
+    "procent": "",
+    "special": "",
+    "beschrijving": ""
   }
 ]

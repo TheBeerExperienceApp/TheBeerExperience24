@@ -4,7 +4,7 @@
       <v-col>
         <h1>Map</h1>
         <p class="subtitle my-5">
-          Om de map te kunnen zien, kun je deze ook downloaden met onderstaande
+          Om de map te kunnen zien, kun je deze downloaden met onderstaande
           knop.
         </p>
         <v-btn
